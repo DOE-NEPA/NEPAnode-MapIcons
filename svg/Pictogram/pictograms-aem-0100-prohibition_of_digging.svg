@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="305.241" id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="pictograms-aem-0100-prohibition_of_digging-2.svg" sodipodi:version="0.32" width="305.241" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:current-layer="svg2" inkscape:cx="152.6205" inkscape:cy="152.6205" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="674" inkscape:window-width="640" inkscape:window-x="620" inkscape:window-y="151" inkscape:zoom="0.76005518" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false"/>
+  <defs id="defs6">
+    <inkscape:perspective id="perspective60" inkscape:persp3d-origin="152.6205 : 101.747 : 1" inkscape:vp_x="0 : 152.6205 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="305.241 : 152.6205 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0 0 L 10 5 L 0 10 z" id="path9"/>
+    </marker>
+    <marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10 0 L 0 5 L 10 10 z" id="path12"/>
+    </marker>
+  </defs>
+  <g id="g2958" transform="matrix(1.2657121,0,0,1.2744697,-38.528002,-41.480788)">
+    <path d="M 106.878,204.32 L 102.292,196.089 L 100.007,195.456 L 100.624,202.749 L 101.874,203.054 L 103.964,208.995 L 106.249,209.601 L 105.397,203.949 L 106.878,204.32" id="path15" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 99.3782,202.249 L 94.7884,193.999 L 92.5032,193.366 L 93.1243,200.659 L 94.3821,200.979 L 96.4602,206.906 L 98.7454,207.538 L 97.8977,201.862 L 99.3782,202.249" id="path17" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 91.6946,199.948 L 87.1087,191.702 L 84.8313,191.069 L 85.4485,198.358 L 86.7063,198.682 L 88.7766,204.609 L 91.0657,205.23 L 90.2142,199.565 L 91.6946,199.948" id="path19" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 84.1985,197.862 L 79.6243,189.632 L 77.3274,188.999 L 77.9563,196.276 L 79.2063,196.597 L 81.2845,202.522 L 83.5813,203.152 L 82.722,197.487 L 84.2024,197.862" id="path21" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 143.331,157.518 L 140.198,154.386 L 136.432,157.784 L 132.065,153.405 L 135.886,150.022 L 132.558,146.694 L 128.518,149.874 L 124.354,145.499 L 128.182,142.182 L 126.104,139.897 L 122.065,143.429 L 120.608,141.956 C 120.608,141.956 107.85,145.733 104.792,152.987 C 101.734,160.253 99.7962,173.503 101.675,183.8 C 103.542,194.1 104.382,194.675 104.382,194.675 L 143.331,157.518" id="path23" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 98.8313,193.304 C 98.8313,193.304 97.9876,192.741 96.0892,182.589 C 94.1985,172.456 96.1477,159.327 99.2259,152.038 C 100.456,149.132 103.53,147.421 106.46,145.538 L 109.085,145.679 C 106.151,147.561 103.362,149.979 102.132,152.893 C 99.0266,160.194 97.0774,173.358 98.9837,183.518 C 100.886,193.694 101.734,194.253 101.734,194.253 L 98.8313,193.304" id="path25" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 91.4016,191.323 C 91.4016,191.323 90.5735,190.772 89.2688,180.956 C 87.9485,171.14 90.7259,158.475 94.3118,151.448 C 95.7376,148.671 98.9837,147.046 102.081,145.261 L 104.761,145.425 C 101.652,147.21 98.6673,149.53 97.2298,152.315 C 93.6126,159.362 90.8352,172.058 92.1438,181.886 C 93.4642,191.718 94.2923,192.284 94.2923,192.284 L 91.4016,191.323" id="path27" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 84.0188,189.069 C 84.0188,189.069 83.1946,188.522 82.1829,179.034 C 81.1829,169.55 84.4095,157.386 88.304,150.69 C 89.8548,148.03 93.2142,146.534 96.429,144.882 L 99.1477,145.112 C 95.9212,146.776 92.7923,148.94 91.2337,151.604 C 87.3392,158.311 84.0813,170.491 85.0774,180.015 C 86.097,189.53 86.929,190.081 86.929,190.081 L 84.0188,189.069" id="path29" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 77.1556,187.245 C 77.1556,187.245 76.3509,186.714 75.6673,177.456 C 74.9798,168.225 78.6634,156.432 82.8431,149.96 C 84.4993,147.405 87.9485,145.975 91.2766,144.397 L 94.0149,144.655 C 90.6946,146.229 87.4485,148.304 85.7806,150.878 C 81.597,157.362 77.8665,169.175 78.5657,178.429 C 79.2454,187.718 80.0657,188.257 80.0657,188.257 L 77.1556,187.245" id="path31" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 145.8,157.831 L 106.663,199.409 L 109.167,204.827 L 110.417,204.827 L 112.694,211.691 L 115.819,212.523 L 114.772,205.855 L 148.3,162.186 L 145.8,157.831" id="path33" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 147.085,192.53 C 147.085,199.87 150.401,205.82 154.495,205.82 C 158.581,205.82 161.897,199.87 161.897,192.53 L 161.897,190.03 C 159.331,189.386 157.436,187.089 157.436,184.319 L 157.413,176.897 L 151.233,170.722 L 151.233,184.358 C 151.233,187.007 149.487,189.218 147.085,189.979 L 147.085,192.53" id="path35" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 170.983,190.261 L 163.347,190.229 C 163.268,190.229 163.206,190.222 163.143,190.214 L 163.155,191.409 C 163.155,199.983 159.272,206.941 154.495,206.941 C 149.71,206.941 145.835,199.983 145.835,191.409 L 145.835,190.222 C 145.663,190.229 145.503,190.28 145.327,190.28 L 132.276,190.28 C 132.276,190.28 132.276,203.367 132.276,203.574 C 132.276,229.976 154.956,238.749 154.956,238.749 C 154.956,238.749 176.815,228.484 176.815,203.367 L 176.815,196.089 L 170.983,190.261" id="path37" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 148.714,78.6864 C 144.304,76.8544 144.952,73.4754 144.952,73.4754 L 163.948,73.4754 C 163.948,73.4754 164.589,76.8544 160.19,78.6864 C 155.796,80.5154 154.495,85.9684 154.495,85.9684 L 154.405,85.9684 C 154.405,85.9684 153.108,80.5184 148.714,78.6864 z M 237.839,125.515 L 198.456,110.319 L 198.034,110.952 L 191.792,108.655 L 192.003,107.413 L 196.995,108.026 L 196.995,108.655 L 203.87,109.905 L 205.331,109.081 L 208.038,109.905 L 209.706,109.081 L 223.229,114.276 L 223.643,113.44 L 234.913,117.714 C 234.331,116.401 233.729,115.089 233.089,113.808 L 224.468,110.534 L 224.89,109.69 L 202.413,101.167 L 201.163,99.7024 L 199.28,99.4954 C 198.616,98.5464 194.71,98.0464 194.71,98.0464 L 192.1,96.1824 L 187.1,94.8044 L 185.55,96.3434 L 181.819,96.2254 C 180.983,95.0734 179.62,94.2964 178.073,94.2964 C 176.624,94.2964 175.358,94.9724 174.507,96.0034 L 174.475,96.0034 L 157.663,112.729 L 157.663,88.2064 C 158.268,85.6434 159.64,83.2334 163.628,80.8744 C 167.8,78.3864 167.573,74.3154 167.573,74.3154 L 167.573,67.0224 L 141.315,67.0224 L 141.315,74.3154 C 141.315,74.3154 141.089,78.3864 145.265,80.8744 C 149.276,83.2374 150.636,85.6794 151.233,88.2654 L 151.233,119.104 L 141.819,128.507 L 159.163,145.858 L 184.589,120.936 L 242.073,150.003 C 241.811,141.483 240.354,133.265 237.839,125.515" id="path39" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 225.776,210.663 L 95.4212,80.3084 C 111.296,67.5854 131.436,59.9564 153.37,59.9564 C 204.597,59.9564 246.124,101.483 246.124,152.718 C 246.124,174.651 238.507,194.792 225.776,210.663 z M 60.6048,152.718 C 60.6048,131.116 68.0071,111.265 80.386,95.4914 L 210.593,225.699 C 194.835,238.077 174.964,245.48 153.37,245.48 C 102.132,245.48 60.6048,203.956 60.6048,152.718 z M 153.37,38.8044 C 90.4563,38.8044 39.4446,89.8044 39.4446,152.718 C 39.4446,215.628 90.4563,266.64 153.37,266.64 C 216.288,266.64 267.268,215.628 267.268,152.718 C 267.268,89.8044 216.288,38.8044 153.37,38.8044" id="path41" style="fill:#d90000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 29.6204,266.62 L 2.62042,266.62" id="path43" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 38.6204,275.62 L 38.6204,302.62" id="path45" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 29.6204,38.6204 L 2.62042,38.6204" id="path47" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 38.6204,29.6204 L 38.6204,2.62042" id="path49" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 275.62,38.6204 L 302.62,38.6204" id="path51" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 266.62,29.6204 L 266.62,2.62042" id="path53" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 275.62,266.62 L 302.62,266.62" id="path55" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+    <path d="M 266.62,275.62 L 266.62,302.62" id="path57" style="fill:none;stroke:#000000;stroke-width:0.53275144"/>
+  </g>
+</svg>

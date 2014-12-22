@@ -1,0 +1,18 @@
+#This is the license index for Iconsets* included within the NEPAnode-MapIcons repository
+# *Iconsets: are groupings of indivdual Icons that are derived from a single attributable source with a single license
+# This repository is comprised of both orginal and non-orginal works.  
+# If you use images/icons from this repository, you are responsible to:
+# 1. Review and adhere to the orginal terms, uses, and conditions of the license.
+# 2. Provide proper attribution to the orginal author and source.
+#
+# Text is formatted in YAML for ease of parsing and reference
+# List uses standard terms taken from http://www.gnu.org/licenses/license-list.html
+
+- Iconset: "Humanitarian_Icons_UN-OCHA"
+    author: "OCHA Visual Information Unit" 
+    license: "PublicDomain"
+    source: "http://thenounproject.com/term/agriculture/4221/"
+- Iconset: "Agriculture-wikipedia-user-merbabu-cc-by-sa-3.jpg"
+    author: "Wikipedia User Merbabu"
+    license: "http://creativecommons.org/licenses/by-sa/3.0/deed.en"
+    source: "http://commons.wikimedia.org/wiki/File:KerbauJawa.jpg"

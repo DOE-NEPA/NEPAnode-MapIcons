@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  --><svg height="455" space="preserve" viewBox="-0.808 -0.448 513 455" width="513" xmlns="http://www.w3.org/2000/svg" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org">
+            <dc:title>Source: Open Clip Art Library, Source: Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs></defs>
+  <g>
+    <path d="M470.088,453.888c22.824-0.072,41.256-18.576,41.256-41.328c0-7.272-1.872-14.328-5.544-20.592    L291.384,20.592C284.04,7.848,270.432,0,255.672,0c-14.76,0-28.296,7.776-35.712,20.52L5.544,391.896    C1.944,398.16,0,405.288,0,412.56c0,22.752,18.504,41.328,41.328,41.328H470.088z" fill="#ED171F"/>
+    <polygon fill="#FEB82F" points="52.2,406.224 255.6,53.928 459,406.224 "/>
+    <polygon points="220.032,300.384 252.432,283.68 271.44,303.192 268.92,332.496 249.192,345.168 236.592,339.48 220.032,343.296     212.76,328.608 220.752,319.104 "/>
+    <polygon points="270.864,223.344 270.504,237.672 303.552,246.24 321.624,218.952 307.008,201.744 308.304,185.544     283.824,178.92 273.024,188.784 272.736,192.888 259.992,206.856 "/>
+    <polygon points="59.544,393.552 141.912,393.552 127.944,379.512 131.112,358.272 153.36,348.696 163.512,358.92 177.768,358.92     183.816,381.096 176.832,393.552 280.368,393.552 284.832,373.176 292.104,359.208 292.392,344.592 297.792,331.2     301.608,308.376 307.008,295.632 308.304,286.272 311.76,276.696 312.768,265.968 321.048,250.128 320.688,226.584     326.088,212.616 332.496,187.128 458.928,406.224 52.2,406.224 "/>
+  </g>
+</svg>

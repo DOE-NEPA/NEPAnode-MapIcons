@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="250"
+   height="250"
+   viewBox="0 0 0.34722222 0.34722222"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="LNGTerminal_Icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="125"
+     inkscape:cy="125"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">SVG drawing</title>
+  <desc
+     id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG drawing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3393">
+    <linearGradient
+       id="linearGradient8138">
+      <stop
+         id="stop8140"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop8142"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="0.17569096"
+       cy="0.17470571"
+       r="0.16916668"
+       fx="0.17569096"
+       fy="0.17470571"
+       id="radialGradient8144"
+       xlink:href="#linearGradient8138"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <text
+     x="-0.032071669"
+     y="0.3455472"
+     id="text7140"
+     xml:space="preserve"
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"><tspan
+       x="-0.032071669"
+       y="0.3455472"
+       id="tspan7142"
+       style="font-size:0.59036261px" /></text>
+  <path
+     d="M 329.28829,363.4657 A 105.41456,102.94666 0 1 1 118.45918,363.4657 105.41456,102.94666 0 1 1 329.28829,363.4657 z"
+     transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+     id="path3037"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1" />
+  <path
+     d="M 296.14793,366.28613 A 58.877029,87.434151 0 1 1 178.39388,366.28613 58.877029,87.434151 0 1 1 296.14793,366.28613 z"
+     transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+     id="path3807"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <g
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"
+     id="text8169">
+    <path
+       d="M 0.05794141,0.1314448 0.10227475,0.1314448 0.10227475,0.18569481 0.20785809,0.18569481 0.21660809,0.17169481 0.23877476,0.17169481 0.23877476,0.1191948 0.25335809,0.1191948 0.25335809,0.17169481 0.26910809,0.17169481 0.27669143,0.15769481 0.3408581,0.15769481 0.31169143,0.23061148 0.03169141,0.23061148 0.00252474,0.18569481 0.02877474,0.18569481 0.05794141,0.1314448 0.05794141,0.1314448"
+       style="font-size:0.58333337px;fill:#000000"
+       id="path2995" />
+  </g>
+</svg>

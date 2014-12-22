@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg8302"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="pictograms-nps-winter-ski_jump-2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs8304">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective8310" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="61.634556"
+     inkscape:cy="136.73676"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="738"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="198" />
+  <metadata
+     id="metadata8307">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5346"
+       transform="matrix(25.897825,0,0,-25.897825,30.546596,5.1899241)">
+      <path
+         d="M 0,0 C -0.54,0 -0.979,-0.44 -0.979,-0.981 L -0.979,-8.503 C -0.979,-9.044 -0.54,-9.484 0,-9.484 L 7.521,-9.484 C 8.062,-9.484 8.502,-9.044 8.502,-8.503 L 8.502,-0.981 C 8.502,-0.44 8.062,0 7.521,0 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5348" />
+    </g>
+    <g
+       id="g5350"
+       transform="matrix(25.897825,0,0,-25.897825,225.31108,256)">
+      <path
+         d="M 0,0 C 0.652,0 1.182,0.529 1.182,1.182 L 1.182,8.703 C 1.182,9.355 0.652,9.885 0,9.885 L -7.521,9.885 C -8.173,9.885 -8.7,9.355 -8.7,8.703 L -8.7,1.182 C -8.7,0.529 -8.173,0 -7.521,0 L 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5352" />
+    </g>
+    <g
+       id="g5354"
+       transform="matrix(25.897825,0,0,-25.897825,174.83145,56.555463)">
+      <path
+         d="M 0,0 C 0.367,0 0.662,0.295 0.662,0.66 C 0.662,1.025 0.367,1.322 0,1.322 C -0.365,1.322 -0.66,1.025 -0.66,0.66 C -0.66,0.295 -0.365,0 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5356" />
+    </g>
+    <g
+       id="g5358"
+       transform="matrix(25.897825,0,0,-25.897825,102.14642,126.00597)">
+      <path
+         d="M 0,0 L 2.379,1.537 C 2.689,1.734 2.783,2.145 2.586,2.455 C 2.391,2.766 1.979,2.859 1.668,2.662 L -0.086,1.529 C -0.186,1.465 -0.264,1.381 -0.314,1.283 L -2.14,-2.314 C -2.247,-2.527 -2.163,-2.785 -1.952,-2.893 C -1.741,-3 -1.481,-2.916 -1.374,-2.705 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5360" />
+    </g>
+    <g
+       id="g5362"
+       transform="matrix(25.897825,0,0,-25.897825,222.12564,119.47972)">
+      <path
+         d="M 0,0 C 0.314,0.197 0.412,0.611 0.215,0.926 L -0.016,0.785 C 0.104,0.596 0.045,0.348 -0.145,0.23 L -7.448,-4.393 L -7.304,-4.621 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5364" />
+    </g>
+  </g>
+</svg>

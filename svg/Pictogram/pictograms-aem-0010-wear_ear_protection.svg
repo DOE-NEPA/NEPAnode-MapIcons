@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg height="304.014" width="304.015">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
+    <path d="M 183.288 131.811L 183.288 61.3704C 177.308 59.8114 170.745 59.0064 163.98 59.1984L 163.98 131.893C 151.386 136.006 142.284 147.838 142.284 161.807C 142.284 179.186 156.378 193.276 173.757 193.276C 191.136 193.276 205.226 179.186 205.226 161.807C 205.226 147.752 196.011 135.85 183.292 131.811" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 236.554 140.163C 236.554 196.174 200.101 240.713 144.237 244.756L 116.741 244.819C 102.655 244.819 91.2334 233.397 91.2334 219.311L 91.2334 184.92L 72.6554 182.1C 69.4804 181.065 67.9684 181.065 67.4604 177.635C 67.3354 176.795 67.9214 174.913 68.2024 174.159L 76.2334 151.893L 89.3824 115.424L 90.2454 113.034C 91.5734 109.526 93.1944 106.225 95.0624 103.135C 109.753 78.8274 134.612 63.5064 159.128 61.8814L 159.14 61.8854L 159.14 128.932C 146.53 134.549 137.733 147.182 137.733 161.877C 137.733 181.791 153.878 197.94 173.792 197.94C 193.706 197.94 209.851 181.791 209.851 161.877C 209.851 147.057 200.905 134.331 188.12 128.788L 188.12 66.5814C 217.722 78.0384 236.554 109.213 236.554 140.163zM 119.179 127.963C 115.39 127.963 112.315 131.038 112.315 134.827C 112.315 138.616 115.39 141.686 119.179 141.686C 122.968 141.686 126.038 138.616 126.038 134.827C 126.038 131.038 122.968 127.963 119.179 127.963" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 29.6204 265.393L 2.62042 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 274.393L 38.6204 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 29.6204 38.6204L 2.62042 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 29.6204L 38.6204 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 38.6204L 301.394 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 29.6204L 265.394 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 265.393L 301.394 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 274.393L 265.394 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+  </g>
+</svg>

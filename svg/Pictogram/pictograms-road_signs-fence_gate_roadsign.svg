@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  --><svg height="455" space="preserve" viewBox="-0.592 -0.801 512 455" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org">
+            <dc:title>Source: Open Clip Art Library, Source: Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs></defs>
+  <g>
+    <path d="M469.728,453.591H41.256C18.432,453.591,0,435.087,0,412.263c0-7.2,1.872-14.328,5.472-20.592    L219.744,20.655c15.984-27.576,55.584-27.504,71.424,0L505.44,391.671c3.672,6.336,5.544,13.392,5.544,20.592    c0,22.824-18.432,41.256-41.184,41.328H469.728z" fill="#ED171F"/>
+    <polygon fill="#FEB82F" points="52.2,405.999 255.456,53.991 458.712,405.999 "/>
+    <polygon points="153.936,351.495 164.16,351.495 164.16,272.079 153.936,272.079 153.936,251.847 164.16,251.847 164.16,241.695     174.312,228.951 184.464,241.695 184.464,251.847 204.768,251.847 204.768,241.695 214.92,228.951 225.072,241.695     225.072,251.847 245.304,251.847 245.304,241.695 255.528,228.951 265.68,241.695 265.68,251.847 285.984,251.847     285.984,241.695 296.136,228.951 306.288,241.695 306.288,251.847 326.592,251.847 326.592,241.695 336.744,228.951     346.896,241.695 346.896,251.847 357.12,251.847 357.12,272.079 346.896,272.079 346.896,351.495 357.12,351.495 357.12,371.799     346.896,371.799 346.896,386.919 326.592,386.919 326.592,371.799 306.288,371.799 306.288,386.919 285.984,386.919     285.984,371.799 265.68,371.799 265.68,386.919 245.304,386.919 245.304,371.799 225.072,371.799 225.072,386.919     204.768,386.919 204.768,371.799 184.464,371.799 184.464,386.919 164.16,386.919 164.16,371.799 153.936,371.799 "/>
+    <rect fill="#FEB82F" height="79.416" width="20.304" x="306.288" y="272.079"/>
+    <rect fill="#FEB82F" height="79.416" width="20.376" x="265.608" y="272.079"/>
+    <rect fill="#FEB82F" height="79.416" width="20.304" x="225.072" y="272.079"/>
+    <rect fill="#FEB82F" height="79.416" width="20.376" x="184.392" y="272.079"/>
+  </g>
+</svg>

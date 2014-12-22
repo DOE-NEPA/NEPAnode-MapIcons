@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg height="304.014" width="304.015">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
+    <path d="M 54.7884 145.057L 54.5224 149.815L 68.7654 139.198L 66.4604 136.174L 54.7884 145.057" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 69.7064 134.057L 72.0154 137.077L 100.335 115.502L 98.0304 112.483L 69.7064 134.057" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 93.9334 86.9754L 93.6514 83.0454L 78.9134 90.0534L 94.4874 94.7954L 94.2024 90.7644L 130.011 88.3464L 100.409 110.381L 102.71 113.401L 136.968 87.8744L 142.116 83.7094L 93.9334 86.9754" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 96.9134 177.147L 98.4764 180.608L 130.929 165.956L 129.362 162.495L 96.9134 177.147" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 54.5154 196.405L 54.1284 200.674L 74.3004 191.588L 72.7374 188.127L 54.5154 196.405" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 75.5384 186.858L 77.1084 190.319L 95.6714 181.956L 94.1014 178.495L 75.5384 186.858" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 130.62 137.139L 131.187 133.245L 115.288 136.94L 129.491 144.897L 130.073 140.901L 165.569 146.194L 131.94 161.393L 133.546 164.834L 172.464 147.221L 178.39 144.252L 130.616 137.143" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 59.0154 221.307L 77.5504 223.03L 77.8904 219.245L 59.5304 217.534L 59.0154 221.307" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 102.249 205.866L 104.718 202.795L 89.1444 197.909L 97.3434 211.979L 99.8704 208.831L 117.62 223.053L 80.9954 219.081L 80.6324 222.858L 123.104 227.444L 129.714 227.893L 102.249 205.866" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 124.288 65.1944C 122.526 60.6864 117.448 58.4594 112.94 60.2214C 108.429 61.9834 106.21 67.0654 107.968 71.5734L 112.839 84.0304L 131.175 82.8154L 124.288 65.1984" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 243.101 202.69C 242.808 202.624 242.507 202.573 242.202 202.538C 242.187 202.534 242.171 202.534 242.151 202.534L 201.284 197.694L 220.796 147.827C 222.694 144.729 222.538 140.651 220.104 137.686L 194.011 105.944L 207.097 100.045L 220.839 131.987C 222.753 136.432 227.905 138.483 232.347 136.569C 236.796 134.659 238.843 129.506 236.933 125.061L 220.288 86.3894C 220.159 85.8344 219.98 85.2804 219.733 84.7414C 218.647 82.3314 216.604 80.6594 214.257 79.9564C 212.308 79.3274 210.136 79.3664 208.104 80.2374C 207.597 80.4564 207.124 80.7214 206.683 81.0184L 177.448 94.1904C 176.948 94.3344 176.448 94.5184 175.964 94.7564C 174.983 95.2454 174.14 95.8974 173.44 96.6554L 169.593 99.8154C 165.737 102.866 160.206 103.846 155.444 103.354L 155.48 103.37L 138.308 101.081L 134.503 91.3424L 120.026 102.44L 123.507 111.342C 123.827 112.541 124.409 113.647 125.183 114.6C 125.245 114.682 125.319 114.764 125.39 114.846C 125.46 114.928 125.53 115.01 125.604 115.092C 127.288 116.932 129.687 117.971 132.183 117.94L 161.757 121.889L 178.847 142.682L 183.581 143.393L 180.585 144.799L 188.628 154.584L 159.573 189.604C 159.569 189.608 159.565 189.612 159.562 189.616L 129.604 225.725L 134.616 229.795L 126.835 229.057L 125.995 230.073C 122.905 233.795 123.421 239.319 127.144 242.413C 130.862 245.502 136.39 244.983 139.483 241.264L 173.022 200.834C 173.026 200.834 173.03 200.831 173.03 200.827L 188.569 182.1L 180.999 201.374C 180.905 201.569 180.819 201.709 180.737 201.916C 179.015 206.436 181.276 211.498 185.796 213.225C 186.628 213.541 187.483 213.737 188.327 213.795L 240.104 219.932C 240.116 219.936 240.128 219.94 240.14 219.94C 240.44 219.975 240.741 219.995 241.042 219.998C 245.483 220.077 249.347 216.776 249.882 212.268C 250.417 207.764 247.429 203.651 243.097 202.69" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 142.339 85.3424C 142.565 93.6044 149.323 100.241 157.647 100.241C 166.112 100.241 172.983 93.3744 172.983 84.9094C 172.983 76.4404 166.112 69.5774 157.647 69.5774C 150.155 69.5774 143.929 74.9524 142.593 82.0534L 147.007 81.7604L 142.339 85.3384" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 29.6204 265.393L 2.62042 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 274.393L 38.6204 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 29.6204 38.6204L 2.62042 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 29.6204L 38.6204 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 38.6204L 301.394 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 29.6204L 265.394 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 265.393L 301.394 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 274.393L 265.394 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+  </g>
+</svg>

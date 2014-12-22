@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg height="304.014" width="304.015">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
+    <path d="M 245.593 133.737L 248.144 136.831L 217.8 190.663L 214.948 186.401L 245.593 133.737zM 78.1364 175.874C 89.4374 175.538 112.319 170.479 126.397 183.76L 140.96 186.202C 175.327 176.842 179.022 204.698 219.253 197.768L 254.687 136.022L 245.976 124.819C 222.542 124.506 213.694 112.178 190.651 111.967C 181.546 111.885 177.315 113.698 170.839 118.135C 170.839 118.135 168.526 111.385 155.964 107.823C 131.108 100.78 129.276 110.01 97.4644 106.323L 57.7694 156.706L 49.3274 168.385C 57.2654 172.073 69.7614 176.12 78.1404 175.87L 78.1364 175.874zM 140.62 174.663C 144.562 173.319 148.194 172.584 152.71 172.573C 177.827 172.514 182.312 189.518 210.331 189.155L 213.147 193.557C 180.507 196.202 171.128 171.256 140.96 180.452L 128.272 178.26C 112.194 164.479 91.3124 170.038 80.0114 170.374C 71.8664 170.616 64.7414 168.846 58.4254 165.608L 61.5734 161.057C 73.3664 165.385 81.4564 165.163 91.3974 163.76C 102.171 162.241 119.765 161.518 130.718 172.655L 140.62 174.663zM 135.104 168.768C 121.854 156.116 103.202 156.565 91.5264 158.01C 81.9174 159.202 77.5154 160.624 64.9604 156.581L 99.6794 112.604C 125.925 115.475 131.081 107.6 154.585 113.452C 162.147 115.331 165.374 119.346 166.913 122.588L 159.64 133.393L 118.558 133.319C 118.058 130.569 114.378 129.467 111.753 128.842C 107.593 127.745 103.437 128.819 100.788 131.319L 107.339 133.088L 110.812 138.854L 104.948 142.159L 98.3784 140.467C 99.4444 143.948 102.53 146.932 106.694 148.03C 111.526 149.303 115.89 148.198 118.351 144.788L 151.593 144.858L 135.104 168.768zM 171.655 125.432C 173.921 122.155 179.593 117.756 189.776 117.971C 212.796 118.456 220.312 128.819 240.854 130.471L 209.972 183.416C 183.597 183.159 178.804 166.889 153.21 166.948C 148.163 166.959 144.409 167.479 141.96 168.87L 158.526 144.6L 197.491 144.592C 197.991 147.342 201.659 148.448 204.284 149.073C 208.444 150.17 212.601 149.092 215.249 146.592L 208.698 144.823L 205.226 139.061L 211.089 135.756L 217.659 137.448C 216.593 133.967 213.507 130.983 209.343 129.885C 204.511 128.612 200.187 129.694 197.726 133.104L 166.437 133.057L 171.651 125.428" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 29.6204 265.393L 2.62042 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 274.393L 38.6204 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 29.6204 38.6204L 2.62042 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 29.6204L 38.6204 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 38.6204L 301.394 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 29.6204L 265.394 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 265.393L 301.394 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 274.393L 265.394 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+  </g>
+</svg>

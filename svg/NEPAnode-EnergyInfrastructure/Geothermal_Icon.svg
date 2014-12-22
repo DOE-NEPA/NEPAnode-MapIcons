@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="250"
+   height="250"
+   viewBox="0 0 0.34722222 0.34722222"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Geothermal_Icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="125"
+     inkscape:cy="125"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">SVG drawing</title>
+  <desc
+     id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG drawing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3393">
+    <linearGradient
+       id="linearGradient8138">
+      <stop
+         id="stop8140"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop8142"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="0.17569096"
+       cy="0.17470571"
+       r="0.16916668"
+       fx="0.17569096"
+       fy="0.17470571"
+       id="radialGradient8144"
+       xlink:href="#linearGradient8138"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <text
+     x="-0.032071669"
+     y="0.3455472"
+     id="text7140"
+     xml:space="preserve"
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"><tspan
+       x="-0.032071669"
+       y="0.3455472"
+       id="tspan7142"
+       style="font-size:0.59036261px" /></text>
+  <path
+     d="M 329.28829,363.4657 A 105.41456,102.94666 0 1 1 118.45918,363.4657 105.41456,102.94666 0 1 1 329.28829,363.4657 z"
+     transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+     id="path3037"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1" />
+  <path
+     d="M 296.14793,366.28613 A 58.877029,87.434151 0 1 1 178.39388,366.28613 58.877029,87.434151 0 1 1 296.14793,366.28613 z"
+     transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+     id="path3807"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <g
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"
+     id="text8169">
+    <path
+       d="M 0.17401593,0.34838917 C 0.1510713,0.34838917 0.12929354,0.34430584 0.10868259,0.33613917 0.08846025,0.32758364 0.07018249,0.3151392 0.05384925,0.29880584 0.03751585,0.28247257 0.02507142,0.26419481 0.01651592,0.2439725 0.00834921,0.22336151 0.00426588,0.20158375 0.00426591,0.17863916 0.00426588,0.1560838 0.00834921,0.13469493 0.01651592,0.11447249 0.02507142,0.09386163 0.03751585,0.07538943 0.05384925,0.05905582 0.07018249,0.04272279 0.08846025,0.03027836 0.10868259,0.02172248 0.12929354,0.01316726 0.1510713,0.00888949 0.17401593,0.00888915 0.19696015,0.00888949 0.21854346,0.01316726 0.23876593,0.02172248 0.25937675,0.03027836 0.27784896,0.04272279 0.2941826,0.05905582 0.31051559,0.07538943 0.32276558,0.09386163 0.3309326,0.11447249 0.33948779,0.13469493 0.34376556,0.1560838 0.34376594,0.17863916 0.34376556,0.20158375 0.33948779,0.22336151 0.3309326,0.2439725 0.32276558,0.26419481 0.31051559,0.28247257 0.2941826,0.29880584 0.27784896,0.3151392 0.25937675,0.32758364 0.23876593,0.33613917 0.21854346,0.34430584 0.19696015,0.34838917 0.17401593,0.34838917 M 0.17401593,0.01588915 C 0.15146019,0.01588948 0.13026576,0.02016726 0.11043259,0.02872249 0.09098802,0.03727835 0.07387693,0.04894501 0.05909925,0.06372249 0.0443214,0.07850054 0.03265474,0.09580607 0.02409925,0.11563916 0.01554365,0.1354727 0.01126587,0.15647268 0.01126592,0.17863916 0.01126587,0.20119487 0.01554365,0.22238929 0.02409925,0.2422225 0.03265474,0.26166703 0.0443214,0.27877813 0.05909925,0.29355584 0.07387693,0.30833365 0.09098802,0.32000031 0.11043259,0.32855584 0.13026576,0.33711141 0.15146019,0.34138918 0.17401593,0.34138917 0.19657126,0.34138918 0.21757124,0.33711141 0.23701593,0.32855584 0.25684898,0.32000031 0.27415452,0.30833365 0.2889326,0.29355584 0.30371005,0.27877813 0.3153767,0.26166703 0.3239326,0.2422225 0.3324878,0.22238929 0.33676557,0.20119487 0.33676594,0.17863916 0.33676557,0.15647268 0.3324878,0.1354727 0.3239326,0.11563916 0.3153767,0.09580607 0.30371005,0.07850054 0.2889326,0.06372249 0.27415452,0.04894501 0.25684898,0.03727835 0.23701593,0.02872249 0.21757124,0.02016726 0.19657126,0.01588948 0.17401593,0.01588915 M 0.17401593,0.12380583 C 0.16623795,0.12380605 0.15904351,0.1253616 0.15243259,0.12847249 0.1458213,0.13119493 0.13998798,0.13508382 0.13493259,0.14013916 0.13026576,0.14519492 0.12637688,0.15102825 0.12326592,0.15763916 0.12054355,0.16425046 0.11918244,0.17125045 0.11918259,0.17863916 0.11918244,0.1864171 0.12054355,0.19361154 0.12326592,0.2002225 0.12637688,0.20683375 0.13026576,0.21266708 0.13493259,0.2177225 0.13998798,0.22238929 0.1458213,0.22627818 0.15243259,0.22938917 0.15904351,0.2321115 0.16623795,0.23347261 0.17401593,0.2334725 0.1814046,0.23347261 0.1884046,0.2321115 0.19501593,0.22938917 0.2020157,0.22627818 0.20784902,0.22238929 0.21251593,0.2177225 0.21757124,0.21266708 0.22146012,0.20683375 0.2241826,0.2002225 0.22729345,0.19361154 0.228849,0.1864171 0.22884926,0.17863916 0.228849,0.17125045 0.22729345,0.16425046 0.2241826,0.15763916 0.22146012,0.15102825 0.21757124,0.14519492 0.21251593,0.14013916 0.20784902,0.13508382 0.2020157,0.13119493 0.19501593,0.12847249 0.1884046,0.1253616 0.1814046,0.12380605 0.17401593,0.12380583"
+       style="font-size:0.58333337px;fill:#000000"
+       id="path2995" />
+  </g>
+</svg>

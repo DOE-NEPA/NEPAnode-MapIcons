@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg5294"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="pictograms-nps-accessibility-volume_control_telephone-2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs5296">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective5302" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="124.57192"
+     inkscape:cy="107.38371"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="747"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="309" />
+  <metadata
+     id="metadata5299">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3360"
+       transform="matrix(25.882115,0,0,-25.882115,30.59266,5.2151427)">
+      <path
+         d="M 0,0 C -0.541,0 -0.98,-0.441 -0.98,-0.982 L -0.98,-8.506 C -0.98,-9.047 -0.541,-9.488 0,-9.488 L 7.527,-9.488 C 8.068,-9.488 8.51,-9.047 8.51,-8.506 L 8.51,-0.982 C 8.51,-0.441 8.068,0 7.527,0 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3362" />
+    </g>
+    <g
+       id="g3364"
+       transform="matrix(25.882115,0,0,-25.882115,30.59266,256)">
+      <path
+         d="M 0,0 C -0.652,0 -1.182,0.529 -1.182,1.184 L -1.182,8.707 C -1.182,9.359 -0.652,9.889 0,9.889 L 7.527,9.889 C 8.18,9.889 8.709,9.359 8.709,8.707 L 8.709,1.184 C 8.709,0.529 8.18,0 7.527,0 L 0,0 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3366" />
+    </g>
+    <g
+       id="g3368"
+       transform="matrix(25.882115,0,0,-25.882115,98.683121,108.06073)">
+      <path
+         d="M 0,0 L 0.488,0 C 0.627,0 0.738,0.11 0.738,0.248 L 0.738,1.703 C 0.738,1.841 0.627,1.952 0.488,1.952 L 0,1.952 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3370" />
+    </g>
+    <g
+       id="g3372"
+       transform="matrix(25.882115,0,0,-25.882115,98.683121,183.10561)">
+      <path
+         d="M 0,0 L 0.488,0 C 0.627,0 0.738,-0.111 0.738,-0.249 L 0.738,-1.704 C 0.738,-1.841 0.627,-1.952 0.488,-1.952 L 0,-1.952 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3374" />
+    </g>
+    <g
+       id="g3376"
+       transform="matrix(25.882115,0,0,-25.882115,83.570865,145.59477)">
+      <path
+         d="M 0,0 C -0.006,1.33 0.246,1.449 0.389,1.449 L 0.43,1.449 L 0.43,3.401 L 0.379,3.401 C 0.125,3.401 -1.113,2.943 -1.113,0 C -1.113,-2.943 0.125,-3.401 0.379,-3.401 L 0.43,-3.401 L 0.43,-1.449 L 0.389,-1.449 C 0.246,-1.449 0.004,-1.329 0,0"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3378" />
+    </g>
+    <g
+       id="g3380"
+       transform="matrix(25.882115,0,0,-25.882115,126.9936,72.01978)">
+      <path
+         d="M 0,0 C 0.084,-0.101 0.129,-0.228 0.129,-0.358 C 0.129,-0.489 0.084,-0.616 0,-0.717 L 0.275,-0.943 C 0.41,-0.779 0.484,-0.571 0.484,-0.358 C 0.484,-0.146 0.41,0.063 0.275,0.227 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3382" />
+    </g>
+    <g
+       id="g3384"
+       transform="matrix(25.882115,0,0,-25.882115,149.89368,113.34275)">
+      <path
+         d="M 0,0 C 0.301,0.329 0.467,0.756 0.467,1.202 C 0.467,1.646 0.303,2.073 0.002,2.401 L -0.266,2.168 C -0.023,1.904 0.111,1.562 0.111,1.202 C 0.111,0.842 -0.023,0.498 -0.27,0.233 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3386" />
+    </g>
+    <g
+       id="g3392"
+       transform="matrix(25.882115,0,0,-25.882115,165.66376,130.25454)">
+      <path
+         d="M 0,0 C 0.467,0.493 0.725,1.14 0.725,1.818 C 0.725,2.495 0.469,3.14 0.006,3.633 L -0.258,3.393 C 0.145,2.966 0.367,2.406 0.367,1.818 C 0.367,1.229 0.145,0.668 -0.262,0.24 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3394" />
+    </g>
+    <g
+       id="g3400"
+       transform="matrix(25.882115,0,0,-25.882115,181.48829,147.16281)">
+      <path
+         d="M 0,0 C 0.631,0.658 0.979,1.523 0.979,2.436 C 0.979,3.345 0.633,4.207 0.006,4.864 L -0.252,4.618 C 0.313,4.027 0.623,3.252 0.623,2.436 C 0.623,1.615 0.311,0.838 -0.258,0.247 L 0,0 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3402" />
+    </g>
+  </g>
+</svg>
