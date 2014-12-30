@@ -1,0 +1,15 @@
+!toilets..access=;
+!toilets..basement=;
+!toilets..cleaning=;
+!toilets..disposal=;
+!toilets..durability=;
+!toilets..emptying=;
+!toilets..fee=;
+!toilets..handwashing=;
+!toilets_number=;
+!toilets..paper_supplied=;
+!toilets..position=;
+!toilets..tank=;
+!toilets..technology=;
+!toilets..type=;
+!drinking_water=;

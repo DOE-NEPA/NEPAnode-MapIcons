@@ -1,0 +1,12 @@
+!street_lamp..colour=;
+!street_lamp..shape=;
+!street_lamp..brand=;
+!street_lamp..style=;
+!street_lamp..color=;
+!street_lamp..operator=;
+!street_lamp..power=;
+!street_lamp..material=;
+!street_lamp..type=;
+!street_lamp..height=;
+!street_lamp..operating_hours=;
+!end_date..street_lamp=;

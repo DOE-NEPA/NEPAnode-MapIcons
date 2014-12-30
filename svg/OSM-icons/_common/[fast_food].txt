@@ -1,0 +1,13 @@
+!name=;
+!diet=;
+!organic=;
+!smoking=;
+!capacity..indoor=;
+!capacity..outdoors=;
+!payment=;
+!takeaway=yes;
+!drive_in=;
+[addr]
+[contact]
+[internet]
+[wheelchair]

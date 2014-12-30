@@ -1,0 +1,14 @@
+!type=;
+!genus=;
+!height=;
+!name:botanical=;
+!start_date=;
+!circumference=;
+!genus=;
+!species=;
+!species..en=;
+!species..de=;
+!species..fr=;
+!species..es=;
+!taxon=;
+!name=;

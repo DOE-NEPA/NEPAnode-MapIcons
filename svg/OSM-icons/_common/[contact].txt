@@ -1,0 +1,9 @@
+!contact..phone=;
+!contact..fax=;
+!contact..website=;
+!contact..email=;
+!contact..webcam=;
+!contact..vhf=;
+!opening_hours=;
+!operator=;
+!wikipedia=;

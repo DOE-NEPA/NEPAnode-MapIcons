@@ -1,0 +1,8 @@
+!payment..account_cards=;
+!payment..credit_cards=;
+!payment..coins=;
+!payment..debit_cards=;
+!payment..electronic_purses=;
+!payment..nfc=;
+!payment..notes=;
+!payment..telephone_cards=;

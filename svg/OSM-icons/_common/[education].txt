@@ -1,0 +1,8 @@
+!name=:
+feature_group=education;
+!capacity=;
+!fee=;
+[addr]
+[contact]
+[internet]
+[wheelchair]

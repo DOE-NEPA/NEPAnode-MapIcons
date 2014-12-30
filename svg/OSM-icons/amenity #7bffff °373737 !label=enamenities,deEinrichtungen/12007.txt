@@ -1,0 +1,52 @@
+<!--
+12007;amenity=bench;!backrest=;!colour=;!material=;!seats=;!label=enbench,deSitzbank.svg
+-->
+
+<item en.name="bench"
+      de.name="Sitzbank"
+      en.hint="do not map moveable benches"
+      de.hint="nur fest montierte Sitzbänke mappen"> 
+
+      <key key="amenity" value="bench">
+	    
+      <integer key="!capacity" 
+               en.text="amount of seats"
+               de.text="Anzahl Sitze"
+               values="1,2,3,4,5,6,7,8,9,10"
+               individual_values="yes" minimum_value="1" maximum_value="99">
+             
+      <boolean key="!backrest" 
+               en.text="backrest" 
+               de.text="Lehne"
+               preset="yes">
+	    
+      <list key="!material" 
+            en.text="material" 
+            de.text="Material" 
+            en.values="stone,metal,wood,plastic"
+            de.values="Stein,Metall,Holz,Kunststoff"
+            preset="wood"
+            individual_values="yes" en.lowercase_only="yes" de.lowercase_only="no">
+	    
+      <colour key="!colour" 
+            en.text="colour of the bench" 
+            de.text="Farbe der Sitzbank"
+            en.hint="select 'other colour' for selecting an individual colour"
+            de.hint="'andere Farbe' erlaubt individuelle Farbe auszuwählen" 
+            en.values="black,brown,green,red,blue,gray,white"
+            en.values="schwarz,braun,grün,rot,blau,grau,weiss"
+            individual_values="yes">
+             
+      <key key="!donor" value=""
+           en.text="donor of the bench"
+           de.text="Spender der Bank">
+           
+      <key key="!memorial:name" value=""
+           en.text="in memorial of"
+           de.text="In Gedenken an">
+           
+      <key key="!ref" value=""
+           en.text="reference"
+           de.text="Ordnungsnummer">
+           
+</item>

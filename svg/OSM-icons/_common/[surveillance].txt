@@ -1,0 +1,17 @@
+!surveillance=;
+!surveillance..camera..angle=;
+!surveillance..camera..type=;
+!surveillance..camera..mount=;
+!surveillance..camera..direction=;
+!surveillance..camera..height=;
+!surveillance..count=;
+!surveillance..direction_changes=;
+!surveillance..note=;
+!surveillance..operator=;
+!surveillance..purpose=;
+!surveillance..recorded=;
+!surveillance..sign=;
+!surveillance..type=;
+!surveillance..zone=;
+!construction..surveillance=;
+!ref=;

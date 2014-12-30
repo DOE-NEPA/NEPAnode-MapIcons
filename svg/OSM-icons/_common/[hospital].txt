@@ -1,0 +1,7 @@
+!name=;
+!healthcare=hospital;
+feature_group=health,emergency;
+[addr]
+[contact]
+[internet]
+[wheelchair]

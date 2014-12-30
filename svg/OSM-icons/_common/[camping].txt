@@ -1,0 +1,5 @@
+!ref=;
+!stars=;
+!capacity=;
+!fee=;
+!power_supply=;

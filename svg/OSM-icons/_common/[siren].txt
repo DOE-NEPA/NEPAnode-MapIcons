@@ -1,0 +1,7 @@
+!siren..type=;
+!siren..type=;
+!siren..purpose=;
+!siren..mount=;
+!siren..range=;
+!siren..test=;
+!siren..radius=;

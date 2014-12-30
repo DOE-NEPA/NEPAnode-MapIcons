@@ -1,0 +1,7 @@
+!addr..housenumber=;
+!addr..street=;
+!addr..postcode=;
+!addr..suburb=;
+!addr..city=;
+!addr..country=;
+!addr..housename=;                                           

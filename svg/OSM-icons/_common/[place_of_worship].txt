@@ -1,0 +1,6 @@
+!name=;
+!building=;
+!denomination=;
+!service_times=;
+[addr]
+[contact]            

@@ -1,0 +1,8 @@
+!map_type=;
+!map_size=;
+!description=;
+!hiking=;
+!bicycle=;
+!mtb=;
+!ski=;
+!horse=;

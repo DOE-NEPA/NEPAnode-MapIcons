@@ -1,0 +1,16 @@
+!name=;
+!memorial..type=;
+!memorial..addr=;
+!memorial..text=;
+!memorial..note=;
+!memorial..website=;
+!memorial..name=;
+!person..date_of_birth=;
+!person..date_of_death=;
+!memorial..start_date=;
+!memorial..ref=;
+!memorial_plaque..colour=;
+!memorial..direction=;
+!memorial..conflict=;
+!historic..civilization=;
+[addr]

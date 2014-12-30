@@ -1,0 +1,12 @@
+!level_crossing=;
+!level_crossing..gate=;
+!level_crossing..traffic_sign=;
+!level_crossing..traffic_signals=;
+!level_crossing..category=;
+!level_crossing..type=;
+!level_crossing..light=;
+!level_crossing..barrier=;
+!level_crossing..bell=;
+!level_crossing..bollard=;
+!level_crossing..category=;
+!level_crossing..type..RFF=;

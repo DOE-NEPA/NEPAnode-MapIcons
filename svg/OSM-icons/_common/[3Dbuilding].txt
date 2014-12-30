@@ -1,0 +1,9 @@
+!height=;
+!building..levels=;
+!building..color=;
+!building..material=;
+!roof..colour=;
+!roof..height=;
+!roof..angle=;
+!roof..levels=;
+!roof..direction=;

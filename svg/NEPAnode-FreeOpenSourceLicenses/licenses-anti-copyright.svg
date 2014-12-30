@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="220px" id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.45.1" sodipodi:docbase="D:\Documents and Settings\Jack.JACK-16TQKJD7N8\桌面" sodipodi:docname="PD-icon.svg" sodipodi:version="0.32" version="1.1" width="220px" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>unsorted</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library, Source: Wikimedia Commons, Source: Wikimedia Commons, Source: Wikimedia Commons</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs10"/>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-width="640" objecttolerance="10.0" pagecolor="#ffffff"/>
+  <circle cx="110" cy="110" fill="#808080" id="circle2912" r="98" style="fill:white;fill-opacity:1"/>
+  <path d="M 110 55 C 79.64 55 55 79.64 55 110 C 55 140.36 79.64 165 110 165 C 136.24246 165 158.21121 146.60053 163.6875 122 L 134.1875 122 C 129.76472 130.8816 120.58968 137 110 137 C 95.096 137 83 124.904 83 110 C 83 95.096 95.096 83 110 83 C 120.19663 83 129.09382 88.65083 133.6875 97 L 163.4375 97 C 157.59313 72.905598 135.88327 55 110 55 z" id="circle2859" style="fill:#000000;fill-opacity:1"/>
+  <path d="M 158.5,42.5 C 119.32292,81.677083 80.145833,120.85417 40.96875,160.03125 C 47.962064,166.70599 55.034916,173.29717 62.03125,179.96875 C 101.34375,140.65625 140.65625,101.34375 179.96875,62.03125 C 173.29703,55.035047 166.70583,47.962211 160.03125,40.96875 C 159.52083,41.479167 159.01042,41.989583 158.5,42.5 z" id="path2914" style="fill:white;fill-opacity:1"/>
+  <path d="M 160,44 L 44,160 L 62,177 L 177,62 z" fill="#808080" id="path2867" style="fill:#ff0000"/>
+  <path d="M 110 12 C 55.904 12 12 55.904 12 110 C 12 164.096 55.904 208 110 208 C 164.096 208 208 164.096 208 110 C 208 55.904 164.096 12 110 12 z M 110 32 C 153.056 32 188 66.944 188 110 C 188 153.056 153.056 188 110 188 C 66.944 188 32 153.056 32 110 C 32 66.944 66.944 32 110 32 z" id="circle2855" style="fill:#ff0000;fill-opacity:1"/>
+</svg>

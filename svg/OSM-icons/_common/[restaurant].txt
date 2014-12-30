@@ -1,0 +1,16 @@
+!name=;
+!diet=;
+!organic=;
+!smoking=;
+!capacity..indoor=;
+!capacity..outdoors=;
+!award=;
+!stars=;
+!microbrewery=;
+!takeaway=;
+!drive_in=;
+[addr]
+[contact]
+[internet]
+[wheelchair]
+[payment]

@@ -1,0 +1,4 @@
+!gaelic_games..football=;
+!gaelic_games..hurling=;
+!gaelic_games..handball=;
+!gaelic_games..camogie=;

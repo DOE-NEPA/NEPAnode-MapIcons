@@ -1,0 +1,8 @@
+!artwork..artist_name=;
+!artwork..group=;
+!artwork..location=;
+!artwork..material=;
+!artwork..ref=;
+!artwork..size=;
+!artwork..title=;
+!artwork..type=;

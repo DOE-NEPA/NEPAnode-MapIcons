@@ -1,0 +1,70 @@
+<!--
+12061;amenity=fuel;[fuel];feature_group=car;!label=enpetrol station,deTankstelle.svg
+-->
+
+<item en.name="petrol station"
+      de.name="Tankstelle"
+      en.hint=""
+      de.hint=""
+      feature_group="car">
+
+      <list key="!brand" 
+            en.text="brand"
+            de.text="Marke" 
+            en.values="Aral,BP,Esso,HEM"
+            de.values="Aral,BP,Esso,HEM"
+            individual_values="yes">
+            
+      <key key="!name" value=""
+           en.text="name of the petrol station"
+           de.text="Name der Tankstelle">
+           
+      <key key="!shop" value=""
+           en.text="does a shop exist?"
+           de.text="Gibt es einen Laden?">
+        
+      <boolean key="!fuel:1_25" en.text="1:25" de.text="Zweitaktgemisch 1:25" preset="yes">
+      <boolean key="!fuel:1_50" en.text="1:50" de.text="Zweitaktgemisch 1:50" preset="yes">
+      <boolean key="!fuel:adblue" en.text="AdBlue®" de.text="AdBlue® für LKWs" preset="yes">
+      <boolean key="!fuel:autogas" en.text="car gas" de.text="Autogas" preset="yes">
+      <boolean key="!fuel:biodiesel" en.text="bio diesel" de.text="Biodiesel" preset="yes">
+      <boolean key="!fuel:biogas" en.text="biogas" de.text="Biogas" preset="yes">
+      <boolean key="!fuel:cng" en.text="CNG (compressed natural gas)" de.text="Erdgas" preset="yes">
+      <boolean key="!fuel:diesel_b" en.text="diesel b" de.text="Diesel B" preset="yes">
+      <boolean key="!fuel:diesel_c" en.text="diesel c" de.text="Diesel C" preset="yes">
+      <boolean key="!fuel:diesel" en.text="diesel" de.text="Diesel" preset="yes">
+      <boolean key="!fuel:e10" en.text="E10" de.text="Benzin mit max. 10% Ethanol" preset="yes">
+      <boolean key="!fuel:e20" en.text="E20" de.text="E20" preset="yes">
+      <boolean key="!fuel:e85" en.text="E85" de.text="E85" preset="yes">
+      <boolean key="!fuel:ethanol" en.text="ethanol" de.text="Ethanol" preset="yes">
+      <boolean key="!fuel:gasohol_91" en.text="gasohol 91" de.text="Gasohol 91" preset="yes">
+      <boolean key="!fuel:gasohol_95" en.text="gasohol 95" de.text="Gasohol 91" preset="yes">
+      <boolean key="!fuel:gasoline_91" en.text="gasoline 91" de.text="Gasoline 91" preset="yes">
+      <boolean key="!fuel:GTL_diesel" en.text="Gas To Liquid" de.text="Ultimate Diesel, V-Power Diesel" preset="yes">
+      <boolean key="!fuel:HGV_diesel" en.text="High output diesel pump" de.text="LKW Diesel (größerer Zapfrüssel)" preset="yes">
+      <boolean key="!fuel:kerosene" en.text="kerosene" de.text="Kerosin" preset="no">
+      <boolean key="!fuel:lh2" en.text="Liquid H2" de.text="Flüssiger Wasserstoff (Liquid H2)" preset="yes">
+      <boolean key="!fuel:lpg" en.text="LPG" de.text="Autogas" preset="yes">
+      <boolean key="!fuel:methanol" en.text="methanol" de.text="Methanol" preset="yes">
+      <boolean key="!fuel:octane_76" en.text="fuel with min. 76 octane" de.text="Benzin mit mind. 76 Oktan" preset="yes">
+      <boolean key="!fuel:octane_80" en.text="fuel with min. 80 octane" de.text="Benzin mit mind. 80 Oktan" preset="yes">
+      <boolean key="!fuel:octane_87" en.text="fuel with min. 87 octane" de.text="Benzin mit mind. 87 Oktan" preset="yes">
+      <boolean key="!fuel:octane_89" en.text="fuel with min. 89 octane" de.text="Benzin mit mind. 89 Oktan" preset="yes">
+      <boolean key="!fuel:octane_91" en.text="fuel with min. 91 octane" de.text="Normalbenzin 91" preset="yes">
+      <boolean key="!fuel:octane_92" en.text="fuel with min. 92 octane" de.text="Normalbenzin 92" preset="yes">
+      <boolean key="!fuel:octane_93" en.text="fuel with min. 93 octane" de.text="Benzin mit mind. 93 Oktan" preset="yes">
+      <boolean key="!fuel:octane_95" en.text="fuel with min. 95 octane" de.text="Super bleifrei 95" preset="yes">
+      <boolean key="!fuel:octane_96" en.text="fuel with min. 96 octane" de.text="Benzin mit mind. 96 Oktan" preset="yes">
+      <boolean key="!fuel:octane_97" en.text="fuel with min. 97 octane" de.text="Benzin mit mind. 97 Oktan" preset="yes">
+      <boolean key="!fuel:octane_98" en.text="fuel with min. 98 octane" de.text="Super bleifrei 98" preset="yes">
+      <boolean key="!fuel:octane_100" en.text="fuel with min. 100 octane" de.text="V-Power Racing" preset="yes">
+      <boolean key="!fuel:octane_102" en.text="fuel with min. 102 octane" de.text="Ultimate® 102" preset="yes">
+      <boolean key="!fuel:petrol" en.text="petrol" de.text="Benzin" preset="yes">
+      <boolean key="!fuel:propane" en.text="propane" de.text="Propangas" preset="yes">
+      <boolean key="!fuel:svo" en.text="SVO (straight vegetable oil)" de.text="Reines Pflanzenöl" preset="yes">
+
+      [[payment]]
+      [[addr]]
+      [[contact]]
+
+</item>

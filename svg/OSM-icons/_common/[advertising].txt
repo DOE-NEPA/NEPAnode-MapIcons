@@ -1,0 +1,14 @@
+!luminous=;
+!animated=;
+!display_type=;
+!brand=;
+!faces=;
+!lit=;
+!orientation=;
+!height=;
+!width=;
+!ref=;
+!operator=;
+!landmark=;
+!visibility=;
+!direction=;

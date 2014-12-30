@@ -1,0 +1,9 @@
+!crane..type=;
+!crane..note=;
+!crane..mobile=;
+!crane..maxload=;
+!seamark..crane..category=;
+!crane..operator=;
+!crane..maxradius=;
+!crane..ship..maxdraft=;
+!crane..ship..maxlength=;

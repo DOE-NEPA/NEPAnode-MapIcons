@@ -1,0 +1,10 @@
+!crossing=;
+!crossing_ref=;
+!bicycle=;
+!horse=;
+!segregated=;
+!supervised=;
+!traffic_signals..sound=;
+!traffic_signals..vibration=;
+!traffic_signals..arrow=;
+!traffic_signals..minimap=;

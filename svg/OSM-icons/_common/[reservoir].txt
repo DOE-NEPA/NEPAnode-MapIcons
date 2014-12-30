@@ -1,0 +1,4 @@
+!reservoir_type=;
+natural=;
+!landuse=reservoir;
+ 

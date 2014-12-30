@@ -1,0 +1,7 @@
+!service:bicycle:retail=;
+!service:bicycle:second_hand=;
+!service:bicycle:repair=;
+!service:bicycle:rental=;
+!service:bicycle:pump=;
+!service:bicycle:diy=;
+!service:bicycle:cleaning=;

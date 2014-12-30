@@ -1,0 +1,10 @@
+!fire_hydrant..type=;
+!fire_hydrant..diameter=;
+!fire_hydrant..position=;
+!fire_hydrant..count=;
+!fire_hydrant..pressure=;
+!fire_hydrant..flow_capacity=;
+!fire_hydrant..ref=;
+!fire_hydrant..colour=;
+!fire_hydrant..pipe_diameter=;
+!fire_hydrant..standard=;

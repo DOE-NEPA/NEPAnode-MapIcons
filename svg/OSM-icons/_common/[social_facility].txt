@@ -1,0 +1,7 @@
+!name=;
+!capacity=;
+feature_group=social_facility;
+[addr]
+[contact]
+[internet]
+[wheelchair]

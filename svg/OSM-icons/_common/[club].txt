@@ -1,0 +1,3 @@
+feature_group=club;
+[addr]
+[contact]

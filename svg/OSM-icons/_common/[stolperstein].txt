@@ -1,0 +1,6 @@
+!memorial..text=;
+!person..date_of_birth=;
+!memorial..addr=;
+!memorial..start_date=;
+!network=;
+[addr]
