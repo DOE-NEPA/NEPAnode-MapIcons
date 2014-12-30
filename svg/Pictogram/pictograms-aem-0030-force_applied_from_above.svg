@@ -33,7 +33,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
   <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
     <path d="M 70.0934 94.7764L 68.3274 50.7134L 230.386 50.7134L 228.624 94.7764L 70.0894 94.7764L 70.0934 94.7764zM 165.558 71.8704L 157.858 71.8664L 157.858 56.2294L 142.46 56.2294L 142.46 71.8664L 134.726 71.8624L 150.159 88.9754L 165.558 71.8704" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
     <path d="M 126.468 127.541C 134.894 127.541 141.726 120.709 141.726 112.284C 141.726 103.858 134.894 97.0264 126.468 97.0264C 118.042 97.0264 111.21 103.858 111.21 112.284C 111.21 120.709 118.042 127.541 126.468 127.541" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
