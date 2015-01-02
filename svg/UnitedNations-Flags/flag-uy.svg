@@ -1,1 +1,79 @@
-<svg height="256" viewBox="-45 -45 243 162" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path fill="#fff" d="m-45-45h243v162h-243z"/><path d="m45-18h153m-153 36h153m-243 36h243m-243 36h243" fill="none" stroke="#0038a8" stroke-width="18"/><g stroke-miterlimit="20" fill="#fcd116" stroke="#000" stroke-width=".6"><g id="0"><g id="2"><g id="5" transform="matrix(.92388.38268-.38268.92388 0 0)"><path d="m0 0l6 12c-8 13 1 15-6 21 3-8-4-5-3-20"/><path d="m0 11c-2 13 4.5 17 0 22" fill="none"/></g><use height="162" transform="scale(-1-1)" width="243" xlink:href="#5"/></g><use height="162" transform="matrix(0 1-1 0 0 0)" width="243" xlink:href="#2"/></g><use height="162" transform="matrix(.70711.70711-.70711.70711 0 0)" width="243" xlink:href="#0"/><g id="1"><g id="3"><path d="m0 0h6l-6 33-6-33h6v33" id="6"/><use height="162" transform="scale(-1-1)" width="243" xlink:href="#6"/></g><use height="162" transform="matrix(0 1-1 0 0 0)" width="243" xlink:href="#3"/></g><use height="162" transform="matrix(.70711.70711-.70711.70711 0 0)" width="243" xlink:href="#1"/><circle r="11"/><g transform="scale(.1)" fill="#000" stroke="none"><g id="4"><path d="m81-44c-7 8-11-6-36-6-25 0-29 15-33 12-4-3 21-21 29-22 8-1 31 7 40 16"/><path d="m52-35c7 6 1 19-6 19-7 0-20-12-14-20"/><path d="m19-26c1-12 11-14 27-14 16 0 23 12 29 15-7 0-13-10-29-10-16 0-16 0-27 10"/><path d="m22-23c4-6 9 6 20 6 11 0 17-3 24-8 7-5-10 12-21 12-11 0-26-6-23-10"/><path d="m56-17c13-7 5-17 0-19 2 2 10 12 0 19"/><path d="m0 43c6 0 8-2 16-2 8 0 27 11 38 7-23 9-14 3-54 3h-5"/><path d="m58 57c-4-7-3-5-11-16 8 6 10 9 11 16"/><path d="m0 67c25 0 21-5 54-19-24 3-29 11-54 11h-5"/><path d="m0 30c7 0 9-5 17-5 8 0 19 3 24 7 1 1-3-8-11-9-8-1-5-14-14-16 0 4 3 3 4 9 0 5-9 5-11 0 2 8-4 8-9 8"/></g><use height="162" transform="scale(-1 1)" width="243" xlink:href="#4"/><path d="m0 76c-5 0-18 3 0 3 18 0 5-3 0-3"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="256" id="svg2436" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="Flag_of_Uruguay.svg" sodipodi:version="0.32" version="1.0" viewBox="-45 -45 243 162" width="256" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>unsorted</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library, Source: Wikimedia Commons, Source: Wikimedia Commons, Source: Wikimedia Commons, Source: Wikimedia Commons</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs2492">
+    <inkscape:perspective id="perspective2496" inkscape:persp3d-origin="450 : 200 : 1" inkscape:vp_x="0 : 300 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="900 : 300 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:current-layer="svg2436" inkscape:cx="450" inkscape:cy="300" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="679" inkscape:window-width="961" inkscape:window-x="211" inkscape:window-y="130" inkscape:zoom="0.62111111" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false"/>
+  <rect height="162" id="rect2438" style="fill:#ffffff" width="243" x="-45" y="-45"/>
+  <path d="M 45,-18 L 198,-18 M 45,18 L 198,18 M -45,54 L 198,54 M -45,90 L 198,90" id="path2440" style="fill:none;stroke:#0038a8;stroke-width:18"/>
+  <g id="sun" stroke-miterlimit="20" style="fill:#fcd116;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:20">
+    <g id="4wavyrays">
+      <g id="2wavyrays">
+        <g id="wavyray" transform="matrix(0.9238795,0.3826834,-0.3826834,0.9238795,0,0)">
+          <path d="M 0,0 L 6,12 C -2,25 7,27 0,33 C 3,25 -4,28 -3,13" id="path2446"/>
+          <path d="M 0,11 C -2,24 4.5,28 0,33" id="path2448" style="fill:none"/>
+        </g>
+        <use height="162" id="use2450" transform="scale(-1,-1)" width="243" x="0" xlink:href="#wavyray" y="0"/>
+      </g>
+      <use height="162" id="use2452" transform="matrix(0,1,-1,0,0,0)" width="243" x="0" xlink:href="#2wavyrays" y="0"/>
+    </g>
+    <use height="162" id="use2454" transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)" width="243" x="0" xlink:href="#4wavyrays" y="0"/>
+    <g id="4straightrays">
+      <g id="2straightrays">
+        <path d="M 0,0 L 6,0 L 0,33 L -6,0 L 0,0 L 0,33" id="straightray"/>
+        <use height="162" id="use2459" transform="scale(-1,-1)" width="243" x="0" xlink:href="#straightray" y="0"/>
+      </g>
+      <use height="162" id="use2461" transform="matrix(0,1,-1,0,0,0)" width="243" x="0" xlink:href="#2straightrays" y="0"/>
+    </g>
+    <use height="162" id="use2463" transform="matrix(0.7071068,0.7071068,-0.7071068,0.7071068,0,0)" width="243" x="0" xlink:href="#4straightrays" y="0"/>
+    <circle cx="0" cy="0" id="circle2465" r="11" sodipodi:cx="0" sodipodi:cy="0" sodipodi:rx="11" sodipodi:ry="11"/>
+    <g id="face" style="fill:#000000;stroke:none" transform="scale(0.1,0.1)">
+      <g id="right">
+        <path d="M 81,-44 C 74,-36 70,-50 45,-50 C 20,-50 16,-35 12,-38 C 8,-41 33,-59 41,-60 C 49,-61 72,-53 81,-44" id="path2469"/>
+        <path d="M 52,-35 C 59,-29 53,-16 46,-16 C 39,-16 26,-28 32,-36" id="path2471"/>
+        <path d="M 19,-26 C 20,-38 30,-40 46,-40 C 62,-40 69,-28 75,-25 C 68,-25 62,-35 46,-35 C 30,-35 30,-35 19,-25" id="path2473"/>
+        <path d="M 22,-23 C 26,-29 31,-17 42,-17 C 53,-17 59,-20 66,-25 C 73,-30 56,-13 45,-13 C 34,-13 19,-19 22,-23" id="path2475"/>
+        <path d="M 56,-17 C 69,-24 61,-34 56,-36 C 58,-34 66,-24 56,-17" id="path2477"/>
+        <path d="M 0,43 C 6,43 8,41 16,41 C 24,41 43,52 54,48 C 31,57 40,51 0,51 L -5,51" id="path2479"/>
+        <path d="M 58,57 C 54,50 55,52 47,41 C 55,47 57,50 58,57" id="path2481"/>
+        <path d="M 0,67 C 25,67 21,62 54,48 C 30,51 25,59 0,59 L -5,59" id="path2483"/>
+        <path d="M 0,30 C 7,30 9,25 17,25 C 25,25 36,28 41,32 C 42,33 38,24 30,23 C 22,22 25,9 16,7 C 16,11 19,10 20,16 C 20,21 11,21 9,16 C 11,24 5,24 0,24" id="path2485"/>
+      </g>
+      <use height="162" id="use2487" transform="scale(-1,1)" width="243" x="0" xlink:href="#right" y="0"/>
+      <path d="M 0,76 C -5,76 -18,79 0,79 C 18,79 5,76 0,76" id="path2489"/>
+    </g>
+  </g>
+</svg>

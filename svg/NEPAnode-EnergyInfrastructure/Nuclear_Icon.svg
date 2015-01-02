@@ -1,1 +1,107 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 0.34722222 0.34722222"><text x="-.032" y=".346" font-family="Energy Infrastructure" word-spacing="0" line-height="125%" letter-spacing="0" font-size=".056"><tspan x="-.032" y=".346" font-size=".59"/></text><g fill-rule="evenodd"><path d="m.174.009c.023 0 .045.004.066.013.021.009.038.021.054.036.015.015.027.033.036.054.009.021.013.043.013.066 0 .023-.004.045-.013.066-.009.021-.021.039-.036.054-.015.015-.033.027-.054.036-.021.009-.043.013-.066.013-.023 0-.045-.004-.066-.013-.021-.009-.039-.021-.054-.036-.015-.015-.027-.033-.036-.054-.009-.021-.013-.043-.013-.066 0-.023.004-.045.013-.066.009-.021.021-.038.036-.054.015-.015.033-.027.054-.036.021-.009.043-.013.066-.013m-.153.168c0 .021.004.041.012.06.008.019.019.035.033.049.014.014.03.025.049.033.019.008.038.012.06.012v-.153h-.153m.307 0c0-.021-.004-.041-.012-.059-.008-.019-.019-.035-.033-.049-.014-.014-.03-.025-.049-.033-.019-.008-.039-.012-.059-.012v.153h.153"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="250"
+   height="250"
+   viewBox="0 0 0.34722222 0.34722222"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nuclear_Icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="125"
+     inkscape:cy="125"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">SVG drawing</title>
+  <desc
+     id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG drawing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3393">
+    <linearGradient
+       id="linearGradient8138">
+      <stop
+         id="stop8140"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop8142"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="0.17569096"
+       cy="0.17470571"
+       r="0.16916668"
+       fx="0.17569096"
+       fy="0.17470571"
+       id="radialGradient8144"
+       xlink:href="#linearGradient8138"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <text
+     x="-0.032071669"
+     y="0.3455472"
+     id="text7140"
+     xml:space="preserve"
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"><tspan
+       x="-0.032071669"
+       y="0.3455472"
+       id="tspan7142"
+       style="font-size:0.59036261px" /></text>
+  <path
+     d="M 329.28829,363.4657 A 105.41456,102.94666 0 1 1 118.45918,363.4657 105.41456,102.94666 0 1 1 329.28829,363.4657 z"
+     transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+     id="path3037"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1" />
+  <path
+     d="M 296.14793,366.28613 A 58.877029,87.434151 0 1 1 178.39388,366.28613 58.877029,87.434151 0 1 1 296.14793,366.28613 z"
+     transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+     id="path3807"
+     style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <g
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"
+     id="text8169">
+    <path
+       d="M 0.17401593,0.00888915 C 0.19734903,0.00888949 0.21932124,0.01336171 0.2399326,0.02230582 0.26054342,0.03125058 0.27843229,0.04330612 0.29359927,0.05847249 0.3087656,0.07363943 0.32082114,0.0915283 0.32976594,0.11213916 0.33871001,0.13275048 0.34318223,0.15472269 0.3431826,0.17805583 0.34318223,0.20138931 0.33871001,0.22336151 0.32976594,0.2439725 0.32082114,0.2645837 0.3087656,0.28247257 0.29359927,0.29763917 0.27843229,0.31280587 0.26054342,0.32486142 0.2399326,0.33380584 0.21932124,0.34275029 0.19734903,0.34722251 0.17401593,0.34722251 0.15068241,0.34722251 0.12871021,0.34275029 0.10809926,0.33380584 0.08748802,0.32486142 0.06959915,0.31280587 0.05443258,0.29763917 0.03926585,0.28247257 0.0272103,0.2645837 0.01826592,0.2439725 0.00932143,0.22336151 0.00484921,0.20138931 0.00484925,0.17805583 0.00484921,0.15472269 0.00932143,0.13275048 0.01826592,0.11213916 0.0272103,0.0915283 0.03926585,0.07363943 0.05443258,0.05847249 0.06959915,0.04330612 0.08748802,0.03125058 0.10809926,0.02230582 0.12871021,0.01336171 0.15068241,0.00888949 0.17401593,0.00888915 M 0.02059925,0.17688916 C 0.0205992,0.19788931 0.02448808,0.21772263 0.03226592,0.23638917 0.04043251,0.25505593 0.05151584,0.27138924 0.06551592,0.28538917 0.07951581,0.29938922 0.09584913,0.31047254 0.11451592,0.31863917 0.13318243,0.32641697 0.15301574,0.33030586 0.17401593,0.33030584 L 0.17401593,0.17688916 0.02059925,0.17688916 M 0.3274326,0.17688916 C 0.32743225,0.15588935 0.32334892,0.13605604 0.3151826,0.11738916 0.30740449,0.09872274 0.29651561,0.08238942 0.28251593,0.06838915 0.26851563,0.05438945 0.25218232,0.04350057 0.23351593,0.03572249 0.21484902,0.02755614 0.1950157,0.02347281 0.17401593,0.02347248 L 0.17401593,0.17688916 0.3274326,0.17688916"
+       style="font-size:0.58333337px;fill:#000000"
+       id="path2995" />
+  </g>
+</svg>

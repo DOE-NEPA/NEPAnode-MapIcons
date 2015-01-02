@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 580" enable-background="new 0 0 580 580"><path fill="#111" stroke="#eee" stroke-width="3.408" d="m66.28 1.768c-41.34 0-64.57 21.371-64.57 65.04v450.12c0 40.844 20.894 62.23 62.19 62.23h452.02c41.31 0 62.23-20.316 62.23-62.23v-450.12c0-42.601-20.923-65.04-63.52-65.04-.003 0-448.49-.143-448.35 0z"/><path fill="#fff" d="m185.78 511.73l-6.546 29.643-42.42-.125 72.63-327.96-41.916-.377v-119.33l122.54-54.945 122.54 54.945v119.33l-41.914.377 72.5 327.96-42.29.125-6.545-29.518-104.35-127.19-104.22 127.07m17.06-77.22l64.2-78.17-37.01-44.875-27.19 123.04m137.45-167.54l-11.834-53.812h-76.72l-11.832 53.748 50.16 61.49 50.22-61.42m9.817 44.496l-37.01 44.875 64.19 78.17-27.19-123.04m-136.57-201.21v60.23h153.06v-60.23h-153.06"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="580px"
+	 height="580px" viewBox="0 0 580 580" enable-background="new 0 0 580 580" xml:space="preserve">
+<g id="Layer_2">
+	<g id="g1327">
+		<path id="path1329" fill="#111111" stroke="#EEEEEE" stroke-width="3.408" d="M66.275,1.768
+			c-41.335,0-64.571,21.371-64.571,65.036v450.123c0,40.844,20.894,62.229,62.192,62.229H515.92
+			c41.307,0,62.229-20.316,62.229-62.229V66.804c0-42.601-20.923-65.036-63.522-65.036C514.624,1.768,66.133,1.625,66.275,1.768z"/>
+	</g>
+</g>
+<g id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="waste_bin.svg" sodipodi:version="0.32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<path id="path2285" inkscape:connector-curvature="0" fill="#FFFFFF" d="M185.777,511.727l-6.546,29.643l-42.419-0.125
+		l72.629-327.964l-41.916-0.377V93.575L290.063,38.63L412.6,93.575v119.328l-41.914,0.377l72.502,327.964l-42.293,0.125
+		l-6.545-29.518L290,384.656L185.777,511.727z M202.833,434.502l64.195-78.166l-37.007-44.875L202.833,434.502z M340.287,266.965
+		l-11.834-53.812h-76.719l-11.832,53.748l50.161,61.489L340.287,266.965L340.287,266.965z M350.104,311.461l-37.006,44.875
+		l64.195,78.166L350.104,311.461z M213.532,110.252v60.23h153.062v-60.23H213.532z"/>
+</g>
+</svg>

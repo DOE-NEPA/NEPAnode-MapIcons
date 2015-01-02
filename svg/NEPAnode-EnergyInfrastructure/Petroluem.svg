@@ -1,1 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 0.34722222 0.34722222"><text x="-.032" y=".346" font-family="Energy Infrastructure" word-spacing="0" line-height="125%" letter-spacing="0" font-size=".056"><tspan x="-.032" y=".346" font-size=".59"/></text><path transform="matrix(.00194 0 0 .00196-.299-.549)" d="M333.51899 368.40149A88.49183 87.43415 0 1 1 156.53533 368.40149 88.49183 87.43415 0 1 1 333.51899 368.40149z" stroke-opacity=".977" stroke="#000" stroke-linejoin="round" fill-opacity=".991" stroke-width="2"/><text transform="matrix(.00168 0 0 .0018-.685-.455)" y="415.81" x="435" fill="#fff" font-family="Energy Infrastructure" word-spacing="0" line-height="125%" fill-opacity=".995" letter-spacing="0" font-size="223.68"><tspan y="415.81" x="435" fill="#fff" fill-opacity=".995">s</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="250"
+   height="250"
+   viewBox="0 0 0.34722222 0.34722222"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Petroluem.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24593"
+     showgrid="false"
+     inkscape:zoom="0.944"
+     inkscape:cx="125"
+     inkscape:cy="46.100376"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">SVG drawing</title>
+  <desc
+     id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG drawing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3393" />
+  <text
+     x="-0.032071669"
+     y="0.3455472"
+     id="text7140"
+     xml:space="preserve"
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"><tspan
+       x="-0.032071669"
+       y="0.3455472"
+       id="tspan7142"
+       style="font-size:0.59036261px" /></text>
+  <g
+     id="g24595">
+    <path
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
+       id="path3037"
+       transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+       d="M 329.28829,363.4657 A 105.41456,102.94666 0 1 1 118.45918,363.4657 105.41456,102.94666 0 1 1 329.28829,363.4657 z" />
+    <path
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3807"
+       transform="matrix(0.00161659,0,0,0.00168318,-0.18770819,-0.44043665)"
+       d="M 296.14793,366.28613 A 58.877029,87.434151 0 1 1 178.39388,366.28613 58.877029,87.434151 0 1 1 296.14793,366.28613 z" />
+    <g
+       id="g5338"
+       transform="matrix(0.00173606,0,0,0.00173606,-0.68453106,-0.45522399)">
+      <path
+         style="fill:#000000;fill-opacity:0.99086758;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97716896;stroke-dasharray:none"
+         id="path3851-1"
+         transform="matrix(1.1173452,0,0,1.1308615,221.84679,-53.781953)"
+         d="M 333.51899,368.40149 A 88.491829,87.434151 0 1 1 156.53533,368.40149 88.491829,87.434151 0 1 1 333.51899,368.40149 z" />
+      <text
+         style="font-size:223.68188477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.99543379;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"
+         xml:space="preserve"
+         id="text2997"
+         transform="scale(0.96690234,1.0342306)"
+         y="415.81442"
+         x="434.99792"><tspan
+           style="fill:#ffffff;fill-opacity:0.99543379;stroke:none"
+           id="tspan2999"
+           y="415.81442"
+           x="434.99792">s</tspan></text>
+    </g>
+  </g>
+</svg>

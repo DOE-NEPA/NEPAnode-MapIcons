@@ -1,1 +1,74 @@
-<svg viewBox="0 0 94.264 82.948" width="94.26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="m46.35.062c-1.504.233-2.826 1.122-3.582 2.438l-42.11 72.95c-.881 1.531-.895 3.441 0 4.986s2.559 2.514 4.357 2.512h84.22c1.799.002 3.463-.967 4.357-2.512s.881-3.455 0-4.986l-42.11-72.951c-1.035-1.803-3.086-2.759-5.136-2.437" fill="#fdee1c"/><g fill="#010101"><path d="m46.744 2.121c-.814.126-1.508.617-1.9 1.3l-42.4 73.45c-.465.809-.465 1.846 0 2.648.475.818 1.348 1.352 2.301 1.352h84.8c.953 0 1.828-.533 2.301-1.352.465-.803.465-1.84 0-2.648l-42.4-73.45c-.546-.948-1.599-1.473-2.701-1.3m.401 8.45l36 63.4h-72.05l36.05-63.4"/><path d="m49.43 36.842c0 1.067-.867 1.935-1.936 1.935-1.066 0-1.934-.867-1.934-1.935 0-1.068.867-1.935 1.934-1.935 1.069 0 1.936.866 1.936 1.935"/></g><g fill="none" stroke="#010101" stroke-miterlimit="10"><path d="m49.43 36.842c0 1.067-.867 1.935-1.936 1.935-1.066 0-1.934-.867-1.934-1.935 0-1.068.867-1.935 1.934-1.935 1.069 0 1.936.866 1.936 1.935z" stroke-linecap="round" stroke-width=".839"/><path d="m24.609 47.49h13.74v19.291h-24.386m18.02.181v-19.564" stroke-width=".663"/></g><path d="m45.43 40.27c-1.354-.074-2.145.536-2.777 1.305l-2.942 12.427 2.238.043 1.49-7.852.643 1.035v7.209l-2.443 12.471h3.189l1.615-11.766.746-.789h.021l.744.789 1.596 11.766h3.211l-2.445-12.471v-7.209l.643-1.035 1.471 7.852 2.258-.043-2.961-12.428c-.631-.769-1.424-1.379-2.775-1.305h-1.721-.062-1.739" fill="#010101" fill-rule="evenodd"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m22.14 57.33h7.14l-1.772-3.06"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m22.14 57.928h7.14l-1.772 3.065" id="0"/><path fill="#010101" fill-rule="evenodd" d="m32.12 50.31l3.04-2.729h-3.08l.04 2.729" id="1"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m32.12 50.31l3.04-2.729h-3.08l.04 2.729z" id="2"/><path fill="#010101" fill-rule="evenodd" d="m37.996 63.68l-2.866 2.74h2.802l.064-2.74" id="3"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m37.996 63.68l-2.866 2.74h2.802l.064-2.74z" id="4"/><path fill="#010101" fill-rule="evenodd" d="m32.09 56.766l6.21-5.516-.02-1.85-6.24 5.308.05 2.058" id="5"/><path fill="#010101" fill-rule="evenodd" d="m32.09 63.52l6.21-5.51-.02-1.85-6.24 5.3.05 2.06" id="6"/><path d="m24.609 47.49h13.74v19.291h-24.386m18.02.181v-19.564m-9.845 9.93h7.143l-1.77-3.062" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663"/><use xlink:href="#0"/><use xlink:href="#1"/><use xlink:href="#2"/><use xlink:href="#3"/><use xlink:href="#4"/><use xlink:href="#5"/><use xlink:href="#6"/><path d="m69.66 47.49h-13.74v19.291h24.387m-18.02.181v-19.564m9.843 9.93h-7.143l1.77-3.062" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" id="7"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m72.13 57.928h-7.143l1.769 3.065" id="8"/><path fill="#010101" fill-rule="evenodd" d="m62.15 50.31l-3.05-2.729h3.09l-.04 2.729" id="9"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m62.15 50.31l-3.05-2.729h3.09l-.04 2.729z" id="A"/><path fill="#010101" fill-rule="evenodd" d="m56.27 63.68l2.86 2.74h-2.8l-.06-2.74" id="B"/><path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width=".663" d="m56.27 63.68l2.86 2.74h-2.8l-.06-2.74z" id="C"/><path fill="#010101" fill-rule="evenodd" d="m62.18 56.766l-6.213-5.516.012-1.85 6.241 5.308-.04 2.058" id="D"/><path fill="#010101" fill-rule="evenodd" d="m62.18 63.52l-6.213-5.51.012-1.85 6.241 5.3-.04 2.06" id="E"/><use xlink:href="#7"/><use xlink:href="#8"/><use xlink:href="#9"/><use xlink:href="#A"/><use xlink:href="#B"/><use xlink:href="#C"/><use xlink:href="#D"/><use xlink:href="#E"/></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  --><svg baseProfile="tiny" height="82.948px" id="Layer_1" space="preserve" version="1.2" viewBox="0 0 94.264 82.948" width="94.264px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org">
+            <dc:title>Source: Open Clip Art Library, Source: Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="M46.355,0.062c-1.504,0.233-2.826,1.122-3.582,2.438L0.666,75.45c-0.881,1.531-0.895,3.441,0,4.986  s2.559,2.514,4.357,2.512h84.217c1.799,0.002,3.463-0.967,4.357-2.512s0.881-3.455,0-4.986L51.491,2.499  C50.456,0.696,48.405-0.26,46.355,0.062L46.355,0.062z" fill="#FDEE1C"/>
+  <path d="M46.744,2.121c-0.814,0.126-1.508,0.617-1.9,1.3l-42.4,73.451c-0.465,0.809-0.465,1.846,0,2.648  c0.475,0.818,1.348,1.352,2.301,1.352h84.799c0.953,0,1.828-0.533,2.301-1.352c0.465-0.803,0.465-1.84,0-2.648l-42.4-73.451  C48.899,2.473,47.846,1.948,46.744,2.121L46.744,2.121z M47.145,10.571l36,63.4H11.094L47.145,10.571L47.145,10.571z" fill="#010101"/>
+  <path d="M49.43,36.842c0,1.067-0.867,1.935-1.936,1.935c-1.066,0-1.934-0.867-1.934-1.935  c0-1.068,0.867-1.935,1.934-1.935C48.563,34.907,49.43,35.773,49.43,36.842L49.43,36.842z" fill="#010101"/>
+  <path d="M49.43,36.842  c0,1.067-0.867,1.935-1.936,1.935c-1.066,0-1.934-0.867-1.934-1.935c0-1.068,0.867-1.935,1.934-1.935  C48.563,34.907,49.43,35.773,49.43,36.842L49.43,36.842z" fill="none" stroke="#010101" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.8392"/>
+  <path d="M24.609,47.491h13.74v19.291H13.963   M31.98,66.963V47.399" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <path d="M45.428,40.268c-1.354-0.074-2.145,0.536-2.777,1.305L39.709,54l2.238,0.043l1.49-7.852  l0.643,1.035v7.209l-2.443,12.471h3.189l1.615-11.766l0.746-0.789h0.021l0.744,0.789l1.596,11.766h3.211l-2.445-12.471v-7.209  l0.643-1.035l1.471,7.852L54.686,54l-2.961-12.428c-0.631-0.769-1.424-1.379-2.775-1.305h-1.721h-0.062H45.428L45.428,40.268z" fill="#010101" fill-rule="evenodd"/>
+  <polyline fill="none" points="22.135,57.329 29.277,57.329   27.508,54.266 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polyline fill="none" points="22.135,57.928 29.277,57.928   27.508,60.993 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="32.119,50.315 35.164,47.581 32.076,47.581 32.119,50.315 "/>
+  <polygon fill="none" points="32.119,50.315 35.164,47.581   32.076,47.581 32.119,50.315 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="37.996,63.682 35.133,66.418 37.932,66.418 37.996,63.682 "/>
+  <polygon fill="none" points="37.996,63.682 35.133,66.418   37.932,66.418 37.996,63.682 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="32.086,56.766 38.297,51.254 38.285,49.399 32.043,54.708 32.086,56.766 "/>
+  <polygon fill="#010101" fill-rule="evenodd" points="32.086,63.522 38.297,58.01 38.285,56.155 32.043,61.461 32.086,63.522 "/>
+  <path d="M24.609,47.491h13.74v19.291H13.963   M31.98,66.963V47.399 M22.135,57.329h7.143l-1.77-3.062" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polyline fill="none" points="22.135,57.928 29.277,57.928   27.508,60.993 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="32.119,50.315 35.164,47.581 32.076,47.581 32.119,50.315 "/>
+  <polygon fill="none" points="32.119,50.315 35.164,47.581   32.076,47.581 32.119,50.315 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="37.996,63.682 35.133,66.418 37.932,66.418 37.996,63.682 "/>
+  <polygon fill="none" points="37.996,63.682 35.133,66.418   37.932,66.418 37.996,63.682 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="32.086,56.766 38.297,51.254 38.285,49.399 32.043,54.708 32.086,56.766 "/>
+  <polygon fill="#010101" fill-rule="evenodd" points="32.086,63.522 38.297,58.01 38.285,56.155 32.043,61.461 32.086,63.522 "/>
+  <path d="M69.655,47.491h-13.74v19.291h24.387   M62.286,66.963V47.399 M72.129,57.329h-7.143l1.77-3.062" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polyline fill="none" points="72.129,57.928 64.987,57.928   66.756,60.993 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="62.145,50.315 59.1,47.581 62.188,47.581 62.145,50.315 "/>
+  <polygon fill="none" points="62.145,50.315 59.1,47.581   62.188,47.581 62.145,50.315 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="56.27,63.682 59.133,66.418 56.334,66.418 56.27,63.682 "/>
+  <polygon fill="none" points="56.27,63.682 59.133,66.418   56.334,66.418 56.27,63.682 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="62.178,56.766 55.967,51.254 55.979,49.399 62.221,54.708 62.178,56.766 "/>
+  <polygon fill="#010101" fill-rule="evenodd" points="62.178,63.522 55.967,58.01 55.979,56.155 62.221,61.461 62.178,63.522 "/>
+  <path d="M69.655,47.491h-13.74v19.291h24.387   M62.286,66.963V47.399 M72.129,57.329h-7.143l1.77-3.062" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polyline fill="none" points="72.129,57.928 64.987,57.928   66.756,60.993 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="62.145,50.315 59.1,47.581 62.188,47.581 62.145,50.315 "/>
+  <polygon fill="none" points="62.145,50.315 59.1,47.581   62.188,47.581 62.145,50.315 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="56.27,63.682 59.133,66.418 56.334,66.418 56.27,63.682 "/>
+  <polygon fill="none" points="56.27,63.682 59.133,66.418   56.334,66.418 56.27,63.682 " stroke="#010101" stroke-miterlimit="10" stroke-width="0.6628"/>
+  <polygon fill="#010101" fill-rule="evenodd" points="62.178,56.766 55.967,51.254 55.979,49.399 62.221,54.708 62.178,56.766 "/>
+  <polygon fill="#010101" fill-rule="evenodd" points="62.178,63.522 55.967,58.01 55.979,56.155 62.221,61.461 62.178,63.522 "/>
+</svg>

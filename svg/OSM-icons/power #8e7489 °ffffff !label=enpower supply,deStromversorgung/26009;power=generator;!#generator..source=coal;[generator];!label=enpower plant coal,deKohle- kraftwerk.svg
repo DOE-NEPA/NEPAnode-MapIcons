@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 580" enable-background="new 0 0 580 580"><path fill="#111" stroke="#eee" stroke-width="3.408" d="m66.28 1.768c-41.34 0-64.57 21.371-64.57 65.04v450.12c0 40.844 20.895 62.23 62.19 62.23h452.02c41.31 0 62.23-20.315 62.23-62.23v-450.12c0-42.602-20.923-65.04-63.52-65.04-.003 0-448.5-.143-448.35 0z"/><g fill="#fff"><path d="m286.28 533.74h-211.49l52.49-266.99h124.5z"/><path d="m406.16 46.26c-35.672 0-66.936 18.858-84.37 47.15-7.783-2.904-16.204-4.499-24.999-4.499-36.25 0-66.18 26.965-70.879 61.926-.221-.003-.439-.017-.661-.017-24.694 0-44.713 20.02-44.713 44.713s20.02 44.713 44.713 44.713c14.616 0 27.593-7.02 35.751-17.859 10.53 6.098 22.746 9.604 35.789 9.604 15.813 0 30.418-5.141 42.26-13.827 17.648 16.27 41.22 26.21 67.11 26.21 54.707 0 99.06-44.35 99.06-99.06s-44.35-99.05-99.06-99.05"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="580px"
+	 height="580px" viewBox="0 0 580 580" enable-background="new 0 0 580 580" xml:space="preserve">
+<g id="Layer_2_1_">
+	<g id="Layer_2">
+		<g id="g1327">
+			<path id="path1329" fill="#111111" stroke="#EEEEEE" stroke-width="3.408" d="M66.275,1.768
+				c-41.335,0-64.571,21.371-64.571,65.036v450.123c0,40.844,20.895,62.229,62.192,62.229h452.024
+				c41.307,0,62.229-20.315,62.229-62.229V66.804c0-42.602-20.923-65.036-63.521-65.036C514.625,1.768,66.133,1.625,66.275,1.768z"
+				/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1">
+	
+		<g id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="waste_bin.svg" sodipodi:version="0.32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<g>
+			<polygon fill="#FFFFFF" points="286.276,533.738 74.786,533.738 127.284,266.751 251.777,266.751 			"/>
+			<path fill="#FFFFFF" d="M406.158,46.262c-35.672,0-66.936,18.858-84.375,47.147c-7.783-2.904-16.204-4.499-24.999-4.499
+				c-36.248,0-66.18,26.965-70.879,61.926c-0.221-0.003-0.439-0.017-0.661-0.017c-24.694,0-44.713,20.019-44.713,44.713
+				s20.019,44.713,44.713,44.713c14.616,0,27.593-7.016,35.751-17.859c10.53,6.098,22.746,9.604,35.789,9.604
+				c15.813,0,30.418-5.141,42.261-13.827c17.648,16.27,41.22,26.209,67.113,26.209c54.707,0,99.057-44.349,99.057-99.056
+				S460.865,46.262,406.158,46.262z"/>
+		</g>
+	</g>
+</g>
+</svg>

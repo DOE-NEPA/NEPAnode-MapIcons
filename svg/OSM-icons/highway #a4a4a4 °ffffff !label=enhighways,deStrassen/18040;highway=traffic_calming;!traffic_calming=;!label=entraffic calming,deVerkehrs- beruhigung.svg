@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 580" enable-background="new 0 0 580 580"><path fill="#111" stroke="#eee" stroke-width="3.408" d="m66.28 1.768c-41.34 0-64.57 21.371-64.57 65.04v450.12c0 40.844 20.894 62.23 62.19 62.23h452.02c41.31 0 62.23-20.316 62.23-62.23v-450.12c0-42.601-20.923-65.04-63.52-65.04-.003 0-448.49-.143-448.35 0z"/><path fill="#fff" d="m411.46 161.07h-253.49c-71.24 0-128.99 57.752-128.99 128.99s57.752 129 128.99 129h253.49c71.24 0 128.99-57.754 128.99-129s-57.753-128.99-128.99-128.99m-174.74 228.94h-100.5v-34.498h100.5v34.498m0-55.13h-100.5v-34.5h100.5v34.5m0-55.13h-100.5v-34.499h100.5v34.499m0-55.13h-100.5v-34.499h100.5v34.499m196.49 165.4h-100.49v-34.498h100.49v34.498m0-55.13h-100.49v-34.5h100.49v34.5m0-55.13h-100.49v-34.499h100.49v34.499m0-55.13h-100.49v-34.499h100.49v34.499"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="580px"
+	 height="580px" viewBox="0 0 580 580" enable-background="new 0 0 580 580" xml:space="preserve">
+<g id="Layer_2">
+	<g id="g1327">
+		<path id="path1329" fill="#111111" stroke="#EEEEEE" stroke-width="3.408" d="M66.275,1.768
+			c-41.335,0-64.571,21.371-64.571,65.036v450.123c0,40.844,20.894,62.229,62.192,62.229H515.92
+			c41.307,0,62.229-20.316,62.229-62.229V66.804c0-42.601-20.923-65.036-63.522-65.036C514.624,1.768,66.133,1.625,66.275,1.768z"/>
+	</g>
+</g>
+<g id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="waste_bin.svg" sodipodi:version="0.32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<path fill="#FFFFFF" d="M411.46,161.074H157.974c-71.242,0-128.994,57.752-128.994,128.993s57.752,128.995,128.994,128.995H411.46
+		c71.241,0,128.994-57.754,128.994-128.995S482.701,161.074,411.46,161.074z M236.719,390.018H136.224V355.52h100.495V390.018z
+		 M236.719,334.885H136.224v-34.5h100.495V334.885z M236.719,279.751H136.224v-34.499h100.495V279.751z M236.719,224.617H136.224
+		v-34.499h100.495V224.617z M433.209,390.018H332.715V355.52h100.494V390.018z M433.209,334.885H332.715v-34.5h100.494V334.885z
+		 M433.209,279.751H332.715v-34.499h100.494V279.751z M433.209,224.617H332.715v-34.499h100.494V224.617z"/>
+</g>
+</svg>

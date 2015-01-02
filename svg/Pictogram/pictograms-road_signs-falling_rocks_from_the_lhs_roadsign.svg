@@ -1,1 +1,44 @@
-<svg viewBox="-0.592 -0.529 512 454" xmlns="http://www.w3.org/2000/svg"><path d="m41.18 453.3c-22.752 0-41.18-18.504-41.18-41.26 0-7.272 1.872-14.4 5.544-20.664l214.06-370.73c15.912-27.576 55.51-27.504 71.35 0l214.13 370.73c3.672 6.336 5.544 13.464 5.544 20.664 0 22.752-18.432 41.18-41.18 41.26h-428.26" fill="#ed171f"/><path fill="#feb82f" d="M458.5 405.71 255.38 53.919 52.27 405.71z"/><path d="m240.12 223.12l.36 14.25-32.98 8.64-18.07-27.28 14.55-17.21-1.23-16.13 24.41-6.7 10.8 9.87.29 4.1 12.67 13.97z"/><path d="m290.88 300.01l-32.4-16.7-19.01 19.51 2.52 29.24 19.66 12.67 12.67-5.69 16.56 3.82 7.27-14.62-7.92-9.5z"/><path d="m451.15 393.04h-82.29l13.96-13.97-3.09-21.31-22.25-9.51-10.15 10.16h-14.33l-5.98 22.24 6.99 12.39h-103.39l-4.47-20.38-7.27-13.97-.29-14.54-5.4-13.32-3.81-22.89-5.4-12.68-1.3-9.36-3.46-9.57-.93-10.8-8.28-15.77.29-23.47-5.33-13.97-6.41-25.42-126.29 218.74h406.15z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  --><svg height="454" space="preserve" viewBox="-0.592 -0.529 512 454" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org">
+            <dc:title>Source: Open Clip Art Library, Source: Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs></defs>
+  <g>
+    <path d="M41.184,453.303C18.432,453.303,0,434.799,0,412.047c0-7.272,1.872-14.4,5.544-20.664L219.6,20.655    c15.912-27.576,55.512-27.504,71.352,0L505.08,391.383c3.672,6.336,5.544,13.464,5.544,20.664    c0,22.752-18.432,41.184-41.184,41.256H41.184z" fill="#ED171F"/>
+    <polygon fill="#FEB82F" points="458.496,405.711 255.384,53.919 52.272,405.711 "/>
+    <polygon points="240.12,223.119 240.48,237.375 207.504,246.015 189.432,218.727 203.976,201.519 202.752,185.391 227.16,178.695     237.96,188.559 238.248,192.663 250.92,206.631 "/>
+    <polygon points="290.88,300.015 258.48,283.311 239.472,302.823 241.992,332.055 261.648,344.727 274.32,339.039 290.88,342.855     298.152,328.239 290.232,318.735 "/>
+    <polygon points="451.152,393.039 368.856,393.039 382.824,379.071 379.728,357.759 357.48,348.255 347.328,358.407 333,358.407     327.024,380.655 334.008,393.039 230.616,393.039 226.152,372.663 218.88,358.695 218.592,344.151 213.192,330.831     209.376,307.935 203.976,295.263 202.68,285.903 199.224,276.327 198.288,265.527 190.008,249.759 190.296,226.287     184.968,212.319 178.56,186.903 52.272,405.639 458.424,405.639 "/>
+  </g>
+</svg>

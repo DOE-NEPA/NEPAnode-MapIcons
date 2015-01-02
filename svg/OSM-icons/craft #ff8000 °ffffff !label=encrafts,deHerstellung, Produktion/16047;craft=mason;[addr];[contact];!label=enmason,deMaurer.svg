@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 580" enable-background="new 0 0 580 580"><path fill="#111" stroke="#eee" stroke-width="3.408" d="m66.28 1.768c-41.34 0-64.57 21.371-64.57 65.04v450.12c0 40.844 20.895 62.23 62.19 62.23h452.02c41.31 0 62.23-20.315 62.23-62.23v-450.12c0-42.602-20.923-65.04-63.52-65.04-.003 0-448.5-.143-448.35 0z"/><g fill="#fff"><path d="m38.906 338.96h114.03v64.45h-114.03z"/><path d="m167.98 338.96h114.03v64.45h-114.03z"/><path d="m297.06 338.96h114.03v64.45h-114.03z"/><path d="m103.36 257.15h114.03v64.45h-114.03z"/><path d="m232.44 257.15h114.03v64.45h-114.03z"/><path d="m362.44 257.15h114.03v64.45h-114.03z"/><path d="m427.06 338.96h114.03v64.45h-114.03z"/><path d="m175.42 176.59h114.03v64.45h-114.03z"/><path d="m305.42 176.59h114.03v64.45h-114.03z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="580px"
+	 height="580px" viewBox="0 0 580 580" enable-background="new 0 0 580 580" xml:space="preserve">
+<g id="Layer_2_1_">
+	<g id="Layer_2">
+		<g id="g1327">
+			<path id="path1329" fill="#111111" stroke="#EEEEEE" stroke-width="3.408" d="M66.275,1.768
+				c-41.335,0-64.571,21.371-64.571,65.036v450.123c0,40.844,20.895,62.229,62.192,62.229h452.024
+				c41.307,0,62.229-20.315,62.229-62.229V66.804c0-42.602-20.923-65.036-63.521-65.036C514.625,1.768,66.133,1.625,66.275,1.768z"
+				/>
+		</g>
+	</g>
+</g>
+<g id="Layer_1">
+	<g>
+		<rect x="38.906" y="338.961" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="167.984" y="338.961" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="297.059" y="338.961" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="103.361" y="257.153" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="232.437" y="257.153" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="362.436" y="257.153" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="427.059" y="338.961" fill="#FFFFFF" width="114.033" height="64.453"/>
+		<rect x="175.422" y="176.586" fill="#FFFFFF" width="114.032" height="64.453"/>
+		<rect x="305.421" y="176.586" fill="#FFFFFF" width="114.031" height="64.453"/>
+	</g>
+</g>
+</svg>

@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177.6 177.6"><g transform="translate(-8811.26-607.04)"><path d="m8815.76 611.54v168.59h168.59v-168.59h-168.59m129.97 10.219h15.813l.031 15.16h14.781v15.09h-14.781v15.09h-15.781v-15.09h-14.813v-15.188l8.656.031 6.156.156-.063-15.25m-82.37 40.5c7.661-.183 15.11 2.582 20.594 8.344l3.625 3.813 4.03-3.719c6.681-6.155 11.822-8.07 22.625-8.03 16.517.06 28.29 10.472 30.406 27.938 3.03 24.922-11.03 46.2-48.16 73.28-9.516 6.94-9.609 6.996-10.25 5.938l-10.219-8.25c-29.77-22.709-42.2-38.802-44.719-57.781-1.943-14.637.803-23.354 10.125-32.16 6.403-6.05 14.276-9.192 21.938-9.375m35.75 19.313l-30.469 37 19.406-.125-13.06 29.469 30.438-37.563-18.938.031 12.625-28.813" fill="#009262" fill-rule="evenodd"/><path d="m8988.56 784.34h-177v-177h177v177z" fill="none" stroke="#1f1a17" stroke-linejoin="round" stroke-linecap="round" stroke-width=".6" stroke-miterlimit="10"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="177.60001" id="svg18718" version="1.1" width="177.60001" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://commons.wikimedia.org/">
+            <dc:title>Source: Wikimedia Commons, Source: Wikimedia Commons, Source: Wikimedia Commons</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs18720"/>
+  <g id="layer1" transform="translate(-8811.26,-607.043)">
+    <g id="g3852">
+      <path d="M 8815.76,611.543 L 8815.76,780.13675 L 8984.3538,780.13675 L 8984.3538,611.543 L 8815.76,611.543 z M 8945.7288,621.76175 L 8961.5413,621.76175 L 8961.5725,636.918 L 8976.3538,636.918 L 8976.3538,652.01175 L 8961.5725,652.01175 L 8961.5725,667.1055 L 8945.7913,667.1055 L 8945.7913,652.01175 L 8930.9788,652.01175 L 8930.9788,636.82425 L 8939.635,636.8555 L 8945.7913,637.01175 L 8945.7288,621.76175 z M 8863.3538,662.26175 C 8871.0153,662.07901 8878.4602,664.84358 8883.9475,670.6055 L 8887.5725,674.418 L 8891.6038,670.69925 C 8898.2845,664.54428 8903.426,662.6285 8914.2288,662.668 C 8930.7458,662.7284 8942.515,673.13974 8944.635,690.6055 C 8947.6601,715.52724 8933.6082,736.80627 8896.4788,763.88675 C 8886.9633,770.82689 8886.87,770.88323 8886.2288,769.82425 L 8876.01,761.57425 C 8846.2397,738.8657 8833.8104,722.77244 8831.2913,703.793 C 8829.3488,689.15617 8832.0939,680.43896 8841.4163,671.63675 C 8847.8193,665.59123 8855.6923,662.44449 8863.3538,662.26175 z M 8899.1038,681.57425 L 8868.635,718.57425 L 8888.0413,718.44925 L 8874.9788,747.918 L 8905.4163,710.3555 L 8886.4788,710.38675 L 8899.1038,681.57425 z" id="path38787" style="fill:#009262;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
+      <path d="M 8988.56,784.343 L 8811.56,784.343 L 8811.56,607.343 L 8988.56,607.343 L 8988.56,784.343 z" id="path38785" style="fill:none;stroke:#1f1a17;stroke-width:0.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"/>
+    </g>
+  </g>
+</svg>

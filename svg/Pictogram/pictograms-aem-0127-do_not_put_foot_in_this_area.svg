@@ -1,1 +1,50 @@
-<svg viewBox="0 0 305.9 305.91"><g transform="matrix(1.35328 0 0 1.35328-53.21-52.19)" fill-rule="evenodd"><path d="m133.55 145.14c-8.887 23.671-32.28 43.836-54.742 43.859-17.402.012-32.12 12.394-36.59 29.15l82.39-.039 28.528-15.204c.488-.285 1.058-.441 1.664-.441 2 0 3.621 1.719 3.621 3.801l-.039 11.93 52.24-.102-.019-15.227c0-5.082 2.273-11.195 2.273-11.195 1.871-5.762 2.945-12.06 2.945-18.473-.015-10.222-2.59-19.57-7.105-27.859l-75.16-.199"/><path d="m213.06 75.06l-.093 63.31-81.29-.152-.129-63.07 81.52-.086"/><path d="m265.84 53.02l-12.942-12.945-99.92 99.92-99.92-99.92-12.945 12.945 99.92 99.92-99.92 99.92 12.945 12.945 99.92-99.92 99.92 99.92 12.942-12.945-99.92-99.92 99.92-99.92" fill="#d90000"/></g></svg>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg height="305.909" width="305.905">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
+    <path d="M 133.55 145.14C 124.663 168.811 101.273 188.976 78.8079 188.999C 61.4056 189.011 46.6868 201.393 42.2181 218.148L 124.604 218.109L 153.132 202.905C 153.62 202.62 154.19 202.464 154.796 202.464C 156.796 202.464 158.417 204.183 158.417 206.265L 158.378 218.195L 210.616 218.093L 210.597 202.866C 210.597 197.784 212.87 191.671 212.87 191.671C 214.741 185.909 215.815 179.608 215.815 173.198C 215.8 162.976 213.225 153.628 208.71 145.339L 133.55 145.14" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 213.061 75.0614L 212.968 138.374L 131.675 138.222L 131.546 75.1474L 213.061 75.0614" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 265.843 53.0224L 252.901 40.0774L 152.979 139.999L 53.0579 40.0774L 40.1126 53.0224L 140.034 152.94L 40.1126 252.863L 53.0579 265.808L 152.979 165.886L 252.901 265.808L 265.843 252.863L 165.925 152.94L 265.843 53.0224" style="stroke:none; fill-rule:evenodd; fill:#d90000"/>
+    <path d="M 29.6204 267.288L 2.62042 267.288" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 276.288L 38.6204 303.288" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 29.6204 38.6244L 2.62042 38.6244" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 29.6244L 38.6204 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 276.284 38.6244L 303.284 38.6244" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 267.284 29.6244L 267.284 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 276.284 267.288L 303.284 267.288" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 267.284 276.288L 267.284 303.288" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+  </g>
+</svg>
