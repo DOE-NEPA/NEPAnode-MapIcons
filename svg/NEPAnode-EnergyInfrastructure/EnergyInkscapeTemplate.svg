@@ -15,7 +15,7 @@
    viewBox="0 0 0.34722222 0.34722222"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="WoodyBiomass.svg">
+   sodipodi:docname="NaturalGas.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,11 +27,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
      inkscape:window-height="744"
-     id="namedview9"
+     id="namedview7138"
      showgrid="false"
-     inkscape:zoom="2.232"
-     inkscape:cx="125"
-     inkscape:cy="177.30469"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.82916667"
+     inkscape:cx="263.34053"
+     inkscape:cy="75.301534"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -54,12 +58,16 @@
   </metadata>
   <defs
      id="defs3393" />
-  <g
+  <text
+     xml:space="preserve"
      style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure"
-     id="text7140">
-    <path
-       d="M 0.17455524,0.00313689 C 0.19816952,0.00313723 0.22040649,0.00766334 0.24126622,0.01671523 0.2621254,0.0253742 0.28022984,0.03757501 0.29557958,0.05331771 0.31092866,0.06866741 0.32312948,0.08677185 0.33218206,0.10763107 0.34123391,0.12849076 0.34576002,0.15072773 0.3457604,0.17434204 0.34576002,0.19795669 0.34123391,0.22019366 0.33218206,0.24105302 0.32312948,0.26191258 0.31092866,0.28001702 0.29557958,0.29536638 0.28022984,0.31071584 0.2621254,0.32291666 0.24126622,0.33196886 0.22040649,0.34102109 0.19816952,0.3455472 0.17455524,0.3455472 0.15094056,0.3455472 0.12870359,0.34102109 0.10784427,0.33196886 0.08698467,0.32291666 0.06888024,0.31071584 0.05353091,0.29536638 0.03818141,0.28001702 0.0259806,0.26191258 0.01692843,0.24105302 0.00787616,0.22019366 0.00335005,0.19795669 0.00335009,0.17434204 0.00335005,0.15072773 0.00787616,0.12849076 0.01692843,0.10763107 0.0259806,0.08677185 0.03818141,0.06866741 0.05353091,0.05331771 0.06888024,0.03757501 0.08698467,0.0253742 0.10784427,0.01671523 0.12870359,0.00766334 0.15094056,0.00313723 0.17455524,0.00313689 M 0.26488072,0.23396867 0.19935047,0.16194443 0.25071202,0.16194443 0.17278416,0.06099242 0.09839847,0.16194443 0.1468082,0.16194443 0.08422977,0.23396867 0.15566364,0.23396867 0.15566364,0.2871013 0.19344685,0.2871013 0.19344685,0.23396867 0.26488072,0.23396867"
-       style="font-size:0.59036261px"
-       id="path2987" />
-  </g>
+     x="-0.032071669"
+     y="0.3455472"
+     id="text7140"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan7142"
+       x="-0.032071669"
+       y="0.3455472"
+       style="font-size:0.59036261px">E</tspan></text>
 </svg>
