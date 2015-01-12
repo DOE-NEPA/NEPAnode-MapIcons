@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="417.04358"
+   height="103.5"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-168.3236,-490.86779)"
+     id="layer1">
+    <path
+       d="m 230,552.36218 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       transform="translate(40.073604,-9.7572078)"
+       id="path3134"
+       style="fill:#000000;fill-opacity:0.25531915;fill-rule:evenodd;stroke:#000000;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+    <flowRoot
+       transform="translate(0,-0.17411032)"
+       id="flowRoot3126"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#1277a3;fill-opacity:1;stroke:none;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"><flowRegion
+         id="flowRegion3128"><rect
+           width="320"
+           height="69.999985"
+           x="280"
+           y="512.36218"
+           id="rect3130"
+           style="text-align:start;text-anchor:start;fill:#1277a3;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3132"
+         style="font-size:72px;text-align:start;text-anchor:start;fill:#1277a3;fill-opacity:1">GeoNode</flowPara></flowRoot>    <g
+       id="g4098"
+       style="fill:#1277a3;fill-opacity:1">
+      <path
+         d="m 240.15731,545.48952 c 6.89336,3.58505 13.54529,7.39183 20.43867,10.97685 2.75198,3.98596 -2.84871,14.83179 -8.72676,14.97081 -6.49889,-4.39406 -13.21301,-8.55363 -19.71191,-12.94766 l 0,-9 z"
+         id="path3009-1-8"
+         style="fill:#1277a3;fill-opacity:1" />
+      <path
+         d="m 212,547.36218 c 0,-1 0,-9 0,-10 3,-2 8,-5 8,-5 0,0 5,3 8,5 0,1 0,9 0,10 -3,2 -8,5 -8,5 0,0 -5,-3 -8,-5 z"
+         id="path3009"
+         style="fill:#1277a3;fill-opacity:1" />
+      <path
+         d="m 227.57555,562.11432 c 0.44803,7.75695 0.58202,15.41996 1.03009,23.17691 -2.01593,4.40424 -14.20007,5.14347 -17.32785,0.16474 0.44888,-7.8321 0.58615,-15.7291 1.035,-23.5612 l 7.73197,-4.60614 z"
+         id="path3009-1-8-7"
+         style="fill:#1277a3;fill-opacity:1" />
+      <path
+         d="m 207.97249,558.45958 c -6.29981,4.5479 -12.68925,8.78049 -18.98904,13.32842 -4.79742,0.66788 -11.97091,-9.2084 -9.45432,-14.52231 6.84535,-3.83202 13.57791,-7.96167 20.42325,-11.79372 l 8.04061,4.04336 z"
+         id="path3009-1-8-71"
+         style="fill:#1277a3;fill-opacity:1" />
+      <path
+         d="m 199.78255,539.14486 c -6.75371,-3.84166 -13.25783,-7.89582 -20.01156,-11.73745 -2.6002,-4.0866 3.40426,-14.71422 9.28339,-14.63216 6.3291,4.63526 12.61649,9.04532 18.94562,13.68056 l -0.0727,8.99262 z"
+         id="path3009-1-8-71-2"
+         style="fill:#1277a3;fill-opacity:1" />
+      <path
+         d="m 212.53152,522.48053 c -0.4806,-7.755 -0.64676,-15.41739 -1.1274,-23.17238 1.99741,-4.41268 14.17834,-5.20307 17.32701,-0.23751 -0.41599,7.83391 -0.66632,15.50967 -1.08227,23.34359 l -7.56634,4.86035 z"
+         id="path3009-1-8-71-2-6"
+         style="fill:#1277a3;fill-opacity:1" />
+      <path
+         d="m 232.1573,526.36218 c 6.40172,-4.4033 13.32227,-8.50656 19.72396,-12.90989 4.81139,-0.55849 11.75818,9.47854 9.12126,14.73378 -6.93082,3.67518 -13.64078,7.411 -20.57159,11.08622 l -8.27363,-3.91011 z"
+         id="path3009-1-8-71-2-6-0"
+         style="fill:#1277a3;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
