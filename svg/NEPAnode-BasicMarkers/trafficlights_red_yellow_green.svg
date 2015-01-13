@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="trafficlights_red_yellow_green.svg">
+  <title
+     id="title3691">Traffic Lights</title>
+  <defs
+     id="defs2818">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3683">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="0"
+         id="stop3685" />
+      <stop
+         style="stop-color:#505050;stop-opacity:1"
+         offset="1"
+         id="stop3687" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3611">
+      <stop
+         style="stop-color:#fcfcfc;stop-opacity:0.78431374"
+         offset="0"
+         id="stop3613" />
+      <stop
+         style="stop-color:#fcfcfc;stop-opacity:0.04979253"
+         offset="1"
+         id="stop3615" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3603">
+      <stop
+         style="stop-color:#696969;stop-opacity:1"
+         offset="0"
+         id="stop3605" />
+      <stop
+         style="stop-color:#171717;stop-opacity:1"
+         offset="1"
+         id="stop3607" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3611"
+       id="radialGradient3625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28761062,0.24778762,-0.39998054,0.46426312,21.100187,0.04940547)"
+       cx="15.496124"
+       cy="11.393147"
+       fx="15.496124"
+       fy="11.393147"
+       r="8.0714288" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3603"
+       id="linearGradient3627"
+       gradientUnits="userSpaceOnUse"
+       x1="30.214285"
+       y1="17.785715"
+       x2="18.071428"
+       y2="5.2142859" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3611"
+       id="radialGradient3655"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28761062,0.24778762,-0.39998054,0.46426312,21.100187,0.04940547)"
+       cx="15.496124"
+       cy="11.393147"
+       fx="15.496124"
+       fy="11.393147"
+       r="8.0714288" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3603"
+       id="linearGradient3657"
+       gradientUnits="userSpaceOnUse"
+       x1="30.214285"
+       y1="17.785715"
+       x2="18.071428"
+       y2="5.2142859" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3611"
+       id="radialGradient3665"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28761062,0.24778762,-0.39998054,0.46426312,21.100187,0.04940547)"
+       cx="15.496124"
+       cy="11.393147"
+       fx="15.496124"
+       fy="11.393147"
+       r="8.0714288" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3603"
+       id="linearGradient3667"
+       gradientUnits="userSpaceOnUse"
+       x1="30.214285"
+       y1="17.785715"
+       x2="18.071428"
+       y2="5.2142859" />
+    <filter
+       inkscape:collect="always"
+       id="filter3679"
+       x="-0.10959694"
+       width="1.2191939"
+       y="-0.044802662"
+       height="1.0896053">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81871526"
+         id="feGaussianBlur3681" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3683"
+       id="linearGradient3689"
+       x1="31.107143"
+       y1="40.785713"
+       x2="16.964287"
+       y2="7.2142854"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0224209,0,0,1.0224209,-0.82158124,-1.0914332)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14"
+     inkscape:cx="12.068711"
+     inkscape:cy="24.765954"
+     inkscape:current-layer="g3659"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2812"
+       empspacing="12"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2818"
+       empspacing="16"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2820"
+       empspacing="4"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Traffic Lights</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="" />
+        <dc:identifier>http://toolbaricons.sourceforge.net/icons/Modern3D/transportation/trafficlights_red_yellow_green</dc:identifier>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date>2010-04-06</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       ry="2.0673401"
+       rx="2"
+       y="2.8571446"
+       x="16.75"
+       height="43.85714"
+       width="17.928572"
+       id="rect3669"
+       style="opacity:0.81362011;fill:#3d3d3d;fill-opacity:1;stroke:none;filter:url(#filter3679)"
+       transform="matrix(1.0224209,0,0,1.0224209,-0.82158124,-1.0914332)" />
+    <rect
+       style="fill:url(#linearGradient3689);fill-opacity:1;stroke:none"
+       id="rect2825"
+       width="18.330547"
+       height="44.840458"
+       x="14.551248"
+       y="0.1500797"
+       rx="2.0448418"
+       ry="2.1136918" />
+    <g
+       id="g3621"
+       transform="matrix(0.84702655,0,0,0.84702655,3.387884,-11.662153)">
+      <path
+         transform="matrix(0.94146342,0,0,0.94146342,1.6402438,13.206794)"
+         d="m 31.071429,11.464286 c 0,4.043513 -3.277916,7.321429 -7.321429,7.321429 -4.043513,0 -7.321429,-3.277916 -7.321429,-7.321429 0,-4.0435136 3.277916,-7.3214289 7.321429,-7.3214289 4.043513,0 7.321429,3.2779153 7.321429,7.3214289 z"
+         sodipodi:ry="7.3214288"
+         sodipodi:rx="7.3214288"
+         sodipodi:cy="11.464286"
+         sodipodi:cx="23.75"
+         id="path3599"
+         style="fill:#ff2121;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-0.0714283,12.285714)"
+         d="m 31.642857,11.714286 c 0,4.181584 -3.389844,7.571429 -7.571429,7.571429 -4.181584,0 -7.571428,-3.389845 -7.571428,-7.571429 0,-4.1815848 3.389844,-7.5714289 7.571428,-7.5714289 4.181585,0 7.571429,3.3898441 7.571429,7.5714289 z"
+         sodipodi:ry="7.5714288"
+         sodipodi:rx="7.5714288"
+         sodipodi:cy="11.714286"
+         sodipodi:cx="24.071428"
+         id="path3601"
+         style="fill:url(#radialGradient3625);fill-opacity:1;stroke:url(#linearGradient3627);stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="matrix(0.84702655,0,0,0.84702655,3.387884,2.6517399)"
+       id="g3649">
+      <path
+         sodipodi:type="arc"
+         style="fill:#f5e410;fill-opacity:1;stroke:none"
+         id="path3651"
+         sodipodi:cx="23.75"
+         sodipodi:cy="11.464286"
+         sodipodi:rx="7.3214288"
+         sodipodi:ry="7.3214288"
+         d="m 31.071429,11.464286 c 0,4.043513 -3.277916,7.321429 -7.321429,7.321429 -4.043513,0 -7.321429,-3.277916 -7.321429,-7.321429 0,-4.0435136 3.277916,-7.3214289 7.321429,-7.3214289 4.043513,0 7.321429,3.2779153 7.321429,7.3214289 z"
+         transform="matrix(0.94146342,0,0,0.94146342,1.6402438,13.206794)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient3655);fill-opacity:1;stroke:url(#linearGradient3657);stroke-opacity:1"
+         id="path3653"
+         sodipodi:cx="24.071428"
+         sodipodi:cy="11.714286"
+         sodipodi:rx="7.5714288"
+         sodipodi:ry="7.5714288"
+         d="m 31.642857,11.714286 c 0,4.181584 -3.389844,7.571429 -7.571429,7.571429 -4.181584,0 -7.571428,-3.389845 -7.571428,-7.571429 0,-4.1815848 3.389844,-7.5714289 7.571428,-7.5714289 4.181585,0 7.571429,3.3898441 7.571429,7.5714289 z"
+         transform="translate(-0.0714283,12.285714)" />
+    </g>
+    <g
+       id="g3659"
+       transform="matrix(0.84702655,0,0,0.84702655,3.387884,16.965633)">
+      <path
+         transform="matrix(0.94146342,0,0,0.94146342,1.6402438,13.206794)"
+         d="m 31.071429,11.464286 c 0,4.043513 -3.277916,7.321429 -7.321429,7.321429 -4.043513,0 -7.321429,-3.277916 -7.321429,-7.321429 0,-4.0435136 3.277916,-7.3214289 7.321429,-7.3214289 4.043513,0 7.321429,3.2779153 7.321429,7.3214289 z"
+         sodipodi:ry="7.3214288"
+         sodipodi:rx="7.3214288"
+         sodipodi:cy="11.464286"
+         sodipodi:cx="23.75"
+         id="path3661"
+         style="fill:#66f521;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-0.0714283,12.285714)"
+         d="m 31.642857,11.714286 c 0,4.181584 -3.389844,7.571429 -7.571429,7.571429 -4.181584,0 -7.571428,-3.389845 -7.571428,-7.571429 0,-4.1815848 3.389844,-7.5714289 7.571428,-7.5714289 4.181585,0 7.571429,3.3898441 7.571429,7.5714289 z"
+         sodipodi:ry="7.5714288"
+         sodipodi:rx="7.5714288"
+         sodipodi:cy="11.714286"
+         sodipodi:cx="24.071428"
+         id="path3663"
+         style="fill:url(#radialGradient3665);fill-opacity:1;stroke:url(#linearGradient3667);stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>

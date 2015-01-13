@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="lightning_yellow.svg">
+  <title
+     id="title3623">Lightning</title>
+  <defs
+     id="defs2818">
+    <linearGradient
+       id="linearGradient3605">
+      <stop
+         style="stop-color:#feffdd;stop-opacity:1"
+         offset="0"
+         id="stop3607" />
+      <stop
+         style="stop-color:#faff16;stop-opacity:1"
+         offset="1"
+         id="stop3609" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3605"
+       id="radialGradient3611"
+       cx="24"
+       cy="24"
+       fx="24"
+       fy="24"
+       r="11.439844"
+       gradientTransform="matrix(1,0,0,1.9357859,0,-22.458862)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter3619">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.89006007"
+         id="feGaussianBlur3621" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14"
+     inkscape:cx="18.420194"
+     inkscape:cy="21.799297"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2812"
+       empspacing="12"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2818"
+       empspacing="16"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2820"
+       empspacing="4"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lightning</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/MIT/ " />
+        <dc:identifier>http://toolbaricons.sourceforge.net/icons/Modern3D/objects/lightning_yellow</dc:identifier>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date>2010-02-05</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       id="path3613"
+       d="M 12.560156,1.8549106 20.059184,31.162337 26.578992,24.918493 35.439844,46.145089 27.95612,16.837662 21.406438,23.11236 12.560156,1.8549106 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#3a3a3a;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans;filter:url(#filter3619)" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#radialGradient3611);fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="M 12.560156,1.8549106 20.059184,31.162337 26.578992,24.918493 35.439844,46.145089 27.95612,16.837662 21.406438,23.11236 12.560156,1.8549106 z"
+       id="path2827"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

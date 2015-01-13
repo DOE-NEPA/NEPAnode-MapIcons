@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="minus_blue.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <title
+     id="title2833">Minus</title>
+  <defs
+     id="defs2385">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective30" />
+    <linearGradient
+       id="linearGradient3433">
+      <stop
+         id="stop3435"
+         offset="0"
+         style="stop-color:#3a6cc8;stop-opacity:1" />
+      <stop
+         id="stop3437"
+         offset="1"
+         style="stop-color:#002c7e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3419">
+      <stop
+         id="stop3421"
+         offset="0"
+         style="stop-color:#0042bc;stop-opacity:1" />
+      <stop
+         id="stop3423"
+         offset="1"
+         style="stop-color:#bcd3fd;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3307">
+      <stop
+         style="stop-color:#3ac868;stop-opacity:1;"
+         offset="0"
+         id="stop3309" />
+      <stop
+         style="stop-color:#007e3d;stop-opacity:1;"
+         offset="1"
+         id="stop3311" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3299">
+      <stop
+         style="stop-color:#057f00;stop-opacity:1;"
+         offset="0"
+         id="stop3301" />
+      <stop
+         style="stop-color:#a9fca9;stop-opacity:1;"
+         offset="1"
+         id="stop3303" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3299"
+       id="linearGradient3305"
+       x1="38.106037"
+       y1="32.620831"
+       x2="8.564743"
+       y2="21.711184"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(47.96875,-1.9192898)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3307"
+       id="linearGradient3313"
+       x1="6.3872476"
+       y1="19"
+       x2="41.192669"
+       y2="31.408648"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(47.96875,-1.9192898)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3419"
+       id="linearGradient3417"
+       x1="39.882515"
+       y1="30.831572"
+       x2="6.304646"
+       y2="28.7575"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5615973,0.5617174,-0.5615993,0.5617195,23.267186,-3.3734381)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3433"
+       id="linearGradient3431"
+       x1="12.587649"
+       y1="20.927113"
+       x2="33.63221"
+       y2="25.961952"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5615973,0.5617174,-0.5615993,0.5617195,23.267186,-3.3734381)" />
+    <filter
+       inkscape:collect="always"
+       id="filter3497"
+       x="-0.111276"
+       width="1.222552"
+       y="-0.11111794"
+       height="1.2222359">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.0371622"
+         id="feGaussianBlur3499" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.8994949"
+     inkscape:cx="-2.684529"
+     inkscape:cy="23.840749"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2393"
+       visible="true"
+       enabled="true"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:title>Minus</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/MIT/" />
+        <dc:date>2010-02-03</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>http://toolbaricons.sourceforge.net/icons/Modern3D/abstract/minus_blue</dc:identifier>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="symbol"
+     inkscape:groupmode="layer">
+    <path
+       id="path3439"
+       d="M 2.4142136,38.191878 L 10.914213,46.660628 L 46.351713,11.129378 L 37.851713,2.6606279 L 2.4142136,38.191878 z"
+       style="fill:#2e2e2e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3497)"
+       transform="matrix(0.5615973,0.5617174,-0.5615992,0.5617194,25.305732,-2.6076933)"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:url(#linearGradient3417);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3431);stroke-width:1.00000011999999990;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.295308,17.726147 L 3.312841,27.257807 L 43.168771,27.205075 L 43.151239,17.673415 L 3.295308,17.726147 z"
+       id="path3397"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

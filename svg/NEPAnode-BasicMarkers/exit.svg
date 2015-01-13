@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="exit.svg">
+  <title
+     id="title2845">Exit</title>
+  <defs
+     id="defs2818">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3728">
+      <stop
+         style="stop-color:#f7feff;stop-opacity:1"
+         offset="0"
+         id="stop3730" />
+      <stop
+         style="stop-color:#defbfe;stop-opacity:1"
+         offset="1"
+         id="stop3732" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3720">
+      <stop
+         style="stop-color:#51ba17;stop-opacity:1"
+         offset="0"
+         id="stop3722" />
+      <stop
+         style="stop-color:#388010;stop-opacity:1"
+         offset="1"
+         id="stop3724" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3710">
+      <stop
+         style="stop-color:#40a708;stop-opacity:1"
+         offset="0"
+         id="stop3712" />
+      <stop
+         style="stop-color:#67ff14;stop-opacity:1"
+         offset="1"
+         id="stop3714" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3674">
+      <stop
+         style="stop-color:#fee4de;stop-opacity:1"
+         offset="0"
+         id="stop3676" />
+      <stop
+         style="stop-color:#f7411a;stop-opacity:1"
+         offset="1"
+         id="stop3678" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3628">
+      <stop
+         style="stop-color:#b02b0d;stop-opacity:1"
+         offset="0"
+         id="stop3630" />
+      <stop
+         style="stop-color:#b02b0d;stop-opacity:0"
+         offset="1"
+         id="stop3632" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective2824" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3628"
+       id="radialGradient3634"
+       cx="23.678572"
+       cy="21.500002"
+       fx="23.678572"
+       fy="21.500002"
+       r="21.535715"
+       gradientTransform="matrix(1,7.3359562e-8,-2.2141692e-8,0.30182421,4.7604654e-7,34.510778)"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective3658"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3674"
+       id="radialGradient3684"
+       cx="24.231585"
+       cy="24.363281"
+       fx="24.231585"
+       fy="24.363281"
+       r="0.71428573"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective3694"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3710"
+       id="linearGradient3716"
+       x1="25.72101"
+       y1="38.640461"
+       x2="29.079769"
+       y2="19.558201"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.81495674,0,7.9722393)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3720"
+       id="linearGradient3726"
+       x1="20.682873"
+       y1="15.790885"
+       x2="24.439379"
+       y2="33.769478"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3728"
+       id="linearGradient3734"
+       x1="-20.076115"
+       y1="8.8229733"
+       x2="-9.445591"
+       y2="20.113476"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(39.156038,0.79549513)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="14.410026"
+     inkscape:cy="20.05126"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Exit</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/MIT/
+" />
+        <dc:identifier>http://toolbaricons.sourceforge.net/icons/Modern3D/objects/exit</dc:identifier>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date>2010-02-04</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Outside">
+    <rect
+       y="9.6184683"
+       x="13.776623"
+       height="13.388618"
+       width="21.237125"
+       id="rect3636"
+       style="fill:url(#linearGradient3734);fill-opacity:1;stroke:none" />
+    <path
+       style="fill:url(#linearGradient3726);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 13.435029,19.715729 c 0,0 3.358757,-3.447146 6.629126,-3.889087 3.270369,-0.441942 6.894291,3.358757 6.894291,3.358757 0,0 0.265165,-2.298097 0.707107,-1.944544 0.441941,0.353553 1.414213,-0.795495 2.65165,-0.618718 1.237437,0.176776 4.331029,2.563262 4.331029,2.563262 l 0.795495,14.584077 -21.743533,-0.176777 -0.265165,-13.87697 z"
+       id="path3718" />
+    <path
+       style="fill:url(#linearGradient3716);fill-opacity:1;stroke:none"
+       d="m 13.346641,29.586222 c 6.540738,-0.576261 10.429825,-5.042288 15.379572,-5.61855 4.949748,-0.57626 5.833631,3.45757 5.833631,3.45757 l 0.08839,13.542143 -21.478369,0.07203 0.176777,-11.453196 z"
+       id="path3708" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="Door"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#914f2b;fill-opacity:1;stroke:#ae5a2c;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.964289,10.392857 0.07143,29.928572 8.142857,-5.692749 0,-20.797472 -8.214286,-3.438351 z"
+       id="path3646"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#5e3823;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 13.66715,41.075542 0,-31.5082279 21.237125,0 0,31.5082279"
+       id="rect2852"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:url(#radialGradient3634);fill-opacity:1;stroke:none"
+       id="rect3626"
+       width="43.07143"
+       height="6.5714283"
+       x="2.1428571"
+       y="41" />
+    <rect
+       style="fill:#25880a;fill-opacity:1;stroke:#ececec;stroke-width:0.80000007;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3639"
+       width="16.07143"
+       height="4.9285712"
+       x="16.249998"
+       y="1.642857" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.5714283px;font-style:normal;font-weight:normal;fill:#f1f1f1;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="19.066963"
+       y="5.7433033"
+       id="text3641"><tspan
+         sodipodi:role="line"
+         id="tspan3643"
+         x="19.066963"
+         y="5.7433033">EXIT</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:url(#radialGradient3684);fill-opacity:1;stroke:none"
+       id="path3672"
+       sodipodi:cx="24.571428"
+       sodipodi:cy="24.714285"
+       sodipodi:rx="0.71428573"
+       sodipodi:ry="0.71428573"
+       d="m 25.285714,24.714285 a 0.71428573,0.71428573 0 1 1 -1.428571,0 0.71428573,0.71428573 0 1 1 1.428571,0 z"
+       transform="translate(-2,-0.125)" />
+  </g>
+</svg>

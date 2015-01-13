@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="300"
+   height="300"
+   viewBox="0 0 0.41666667 0.41666666"
+   id="svg2">
+  <title
+     id="title4">SVG drawing</title>
+  <desc
+     id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG drawing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3393" />
+  <g
+     id="text7140"
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure">
+    <path
+       d="M 0.02769411,0.22894398 C 0.02321819,0.2244682 0.02098023,0.21917849 0.02098024,0.21307484 0.02098023,0.20697148 0.02321819,0.20168177 0.02769411,0.1972057 L 0.07713258,0.14715687 C 0.08215096,0.14281681 0.0875763,0.14064667 0.09340862,0.14064645 0.09896952,0.14064667 0.10425923,0.14281681 0.10927776,0.14715687 L 0.16888876,0.20717477 0.30682821,0.06964222 C 0.31062566,0.06530224 0.31591537,0.0631321 0.32269735,0.06313181 0.32880055,0.0631321 0.33402245,0.06530224 0.33836304,0.06964222 L 0.38841187,0.11928415 C 0.39261614,0.1241672 0.39471846,0.12959254 0.39471884,0.13556019 0.39471846,0.14193519 0.39261614,0.1472249 0.38841187,0.15142933 L 0.1851648,0.3546764 C 0.18068873,0.35915231 0.17526339,0.36139026 0.16888876,0.36139026 0.1627851,0.36139026 0.15749539,0.35915231 0.15301962,0.3546764 L 0.02769411,0.22894398 M 0.0433598,0.21307484 0.16888876,0.33880726 0.37213583,0.13556019 0.32269735,0.08551136 0.16888876,0.23891305 0.09340862,0.16343291 0.0433598,0.21307484"
+       id="path3198"
+       style="font-size:0.41666666px;text-align:center;text-anchor:middle;font-family:Icon-Works;-inkscape-font-specification:Icon-Works" />
+  </g>
+</svg>

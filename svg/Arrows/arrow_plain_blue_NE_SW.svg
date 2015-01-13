@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="arrow_plain_blue_NE_SE_SW_NW.svg">
+  <title
+     id="title4030">Multi-Arrow NE-SW</title>
+  <defs
+     id="defs2818">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4625">
+      <stop
+         style="stop-color:#103aca;stop-opacity:1"
+         offset="0"
+         id="stop4627" />
+      <stop
+         style="stop-color:#95b2f7;stop-opacity:1"
+         offset="1"
+         id="stop4629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4633">
+      <stop
+         style="stop-color:#060b88;stop-opacity:1"
+         offset="0"
+         id="stop4635" />
+      <stop
+         style="stop-color:#2650f6;stop-opacity:1"
+         offset="1"
+         id="stop4637" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.52093809,0,0,0.52093809,11.423065,-8.2219991)"
+       y2="18.979893"
+       x2="12.103567"
+       y1="52"
+       x1="34.467861"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3161"
+       xlink:href="#linearGradient4625"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.52093809,0,0,0.52093809,11.423065,-8.2219991)"
+       y2="13.694179"
+       x2="15.746424"
+       y1="47.69418"
+       x1="41.253574"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3163"
+       xlink:href="#linearGradient4633"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient3962"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.52093809,0,0,-0.52093809,36.576934,56.221999)"
+       x1="34.467861"
+       y1="52"
+       x2="12.103567"
+       y2="18.979893" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient3964"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.52093809,0,0,-0.52093809,36.576934,56.221999)"
+       x1="41.253574"
+       y1="47.69418"
+       x2="15.746424"
+       y2="13.694179" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient3968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.52093809,0.52093809,0,3.845161,51.255506)"
+       x1="34.467861"
+       y1="52"
+       x2="12.103567"
+       y2="18.979893" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient3970"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-0.52093809,0.52093809,0,3.845161,51.255506)"
+       x1="41.253574"
+       y1="47.69418"
+       x2="15.746424"
+       y2="13.694179" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient3975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.52093809,-0.52093809,0,56.221999,11.423065)"
+       x1="34.467861"
+       y1="52"
+       x2="12.103567"
+       y2="18.979893" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient3977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.52093809,-0.52093809,0,56.221999,11.423065)"
+       x1="41.253574"
+       y1="47.69418"
+       x2="15.746424"
+       y2="13.694179" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient3979"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52093809,0,0,0.52093809,11.423065,-3.8648561)"
+       x1="34.467861"
+       y1="52"
+       x2="12.103567"
+       y2="18.979893" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient3981"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52093809,0,0,0.52093809,11.423065,-3.8648561)"
+       x1="41.253574"
+       y1="47.69418"
+       x2="15.746424"
+       y2="13.694179" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient3985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.52093809,-0.52093809,0,51.864856,11.423065)"
+       x1="34.467861"
+       y1="52"
+       x2="12.103567"
+       y2="18.979893" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient3987"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.52093809,-0.52093809,0,51.864856,11.423065)"
+       x1="41.253574"
+       y1="47.69418"
+       x2="15.746424"
+       y2="13.694179" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4625"
+       id="linearGradient3990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35319608,0.35319608,-0.35319608,0.35319608,34.359386,-4.4426612)"
+       x1="46.763042"
+       y1="62.636078"
+       x2="1.5352216"
+       y2="62.480316" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient3992"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35319608,0.35319608,-0.35319608,0.35319608,34.359386,-4.4426612)"
+       x1="47.434216"
+       y1="48.997871"
+       x2="2.504293"
+       y2="48.856644" />
+    <filter
+       inkscape:collect="always"
+       id="filter4024">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.24596315"
+         id="feGaussianBlur4026" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.8994949"
+     inkscape:cx="25.199815"
+     inkscape:cy="16.181649"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2812"
+       empspacing="12"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2818"
+       empspacing="16"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2820"
+       empspacing="4"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Multi-Arrow NE-SW</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/MIT/ " />
+        <dc:identifier>http://toolbaricons.sourceforge.net/icons/Modern3D/arrows/arrow_plain_blue_NE_SW</dc:identifier>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date>2010-10-19</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3994"
+       d="m 24.357143,0.94033356 -8.056105,10.48235844 4.876064,0 0,25.44033 -4.876064,0 8.056105,10.482359 8.056105,-10.482359 -4.876064,0 0,-25.44033 4.876064,0 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:0.78136202;color:#000000;fill:#181818;fill-opacity:1;stroke:none;stroke-width:0.39267665;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4024);enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="matrix(0.89945776,0.89945776,-0.89945776,0.89945776,24.779887,-19.440495)"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:url(#linearGradient3990);fill-opacity:1;stroke:url(#linearGradient3992);stroke-width:0.49949466999999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       d="M 44.863862,2.1071859 28.189299,4.2894988 32.575111,8.6753122 9.6926086,31.557815 5.3067958,27.172001 3.1244826,43.846567 19.799049,41.664253 15.413234,37.27844 38.295736,14.395937 42.68155,18.781751 z"
+       id="path2822"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>

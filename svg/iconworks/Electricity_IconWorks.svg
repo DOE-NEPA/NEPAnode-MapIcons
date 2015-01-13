@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="300"
+   height="300"
+   viewBox="0 0 0.41666667 0.41666666"
+   id="svg2">
+  <title
+     id="title4">SVG drawing</title>
+  <desc
+     id="desc6">This was produced by version 4.1 of GNU libplot, a free library for exporting 2-D vector graphics.</desc>
+  <metadata
+     id="metadata3395">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG drawing</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3393" />
+  <g
+     id="text7140"
+     style="font-size:0.0555556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Energy Infrastructure;-inkscape-font-specification:Energy Infrastructure">
+    <path
+       d="M 0.06858766,0.26230986 C 0.06668878,0.25742715 0.06750258,0.25322251 0.07102907,0.24969593 L 0.27142782,0.05214548 C 0.27319085,0.05038255 0.2754288,0.0493653 0.27814169,0.04909372 0.28085415,0.04882277 0.28322773,0.04943312 0.28526246,0.05092478 0.29014504,0.05390902 0.29163701,0.05838493 0.28973837,0.06435251 L 0.2407068,0.1976126 0.3393803,0.1976126 C 0.34453409,0.19761276 0.34799275,0.19985071 0.34975627,0.20432646 0.35151922,0.20920943 0.35070542,0.21334625 0.34731487,0.21673695 L 0.14732301,0.4142874 C 0.14474589,0.41645748 0.14210103,0.41754255 0.13938844,0.41754261 0.13667569,0.41754255 0.13457337,0.41700001 0.13308147,0.415915 0.12819859,0.41293101 0.12670663,0.40852292 0.12860556,0.40269072 L 0.17763714,0.26922718 0.07896364,0.26922718 C 0.07394518,0.26922727 0.07048652,0.2669215 0.06858766,0.26230986 M 0.10642946,0.24684762 0.19391318,0.24684762 C 0.19784642,0.24684774 0.20089817,0.24833971 0.20306845,0.25132353 0.20537408,0.25444322 0.20578098,0.25796969 0.20428915,0.26190296 L 0.16726116,0.36301787 0.31191448,0.2201956 0.22443075,0.2201956 C 0.22049722,0.22019575 0.21744546,0.21850033 0.21527548,0.21510934 0.21296956,0.21198992 0.21249484,0.20866689 0.21385133,0.20514027 L 0.25108277,0.10382191 0.10642946,0.24684762"
+       id="path3220"
+       style="font-size:0.41666666px;text-align:center;text-anchor:middle;font-family:Icon-Works;-inkscape-font-specification:Icon-Works" />
+  </g>
+</svg>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg2816"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="tag_blue.svg">
+  <title
+     id="title4246">Tag</title>
+  <defs
+     id="defs2818">
+    <linearGradient
+       id="linearGradient4346"
+       inkscape:collect="always">
+      <stop
+         id="stop4348"
+         offset="0"
+         style="stop-color:#4efdff;stop-opacity:1" />
+      <stop
+         id="stop4350"
+         offset="1"
+         style="stop-color:#fbffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4276">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:0.86206897"
+         offset="0"
+         id="stop4278" />
+      <stop
+         id="stop4288"
+         offset="0.125"
+         style="stop-color:#f3f3f3;stop-opacity:0.41133005" />
+      <stop
+         id="stop4286"
+         offset="0.25"
+         style="stop-color:#f3f3f3;stop-opacity:0.97536946" />
+      <stop
+         id="stop4284"
+         offset="0.36969051"
+         style="stop-color:#f3f3f3;stop-opacity:0.43596059" />
+      <stop
+         style="stop-color:#d8d8d8;stop-opacity:0.52955665"
+         offset="1"
+         id="stop4280" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4251">
+      <stop
+         style="stop-color:#a9a9a9;stop-opacity:1"
+         offset="0"
+         id="stop4253" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4255" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4251"
+       id="linearGradient4257"
+       x1="35.946712"
+       y1="32.337559"
+       x2="11.813709"
+       y2="14.670042"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4276"
+       id="linearGradient4282"
+       x1="14.248227"
+       y1="16.791363"
+       x2="35.451279"
+       y2="30.317253"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4251"
+       id="linearGradient4292"
+       gradientUnits="userSpaceOnUse"
+       x1="35.946712"
+       y1="32.337559"
+       x2="11.813709"
+       y2="14.670042"
+       gradientTransform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,63.065237,-8.6844071)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4346"
+       id="linearGradient4304"
+       gradientUnits="userSpaceOnUse"
+       x1="35.946712"
+       y1="32.337559"
+       x2="11.813709"
+       y2="14.670042" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4276"
+       id="linearGradient4306"
+       gradientUnits="userSpaceOnUse"
+       x1="14.248227"
+       y1="16.791363"
+       x2="35.451279"
+       y2="30.317253" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4251"
+       id="linearGradient4326"
+       gradientUnits="userSpaceOnUse"
+       x1="35.946712"
+       y1="32.337559"
+       x2="11.813709"
+       y2="14.670042" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4276"
+       id="linearGradient4328"
+       gradientUnits="userSpaceOnUse"
+       x1="14.248227"
+       y1="16.791363"
+       x2="35.451279"
+       y2="30.317253" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4276"
+       id="linearGradient4331"
+       gradientUnits="userSpaceOnUse"
+       x1="14.248227"
+       y1="16.791363"
+       x2="35.451279"
+       y2="30.317253"
+       gradientTransform="matrix(1.1848119,0,0,1.1848119,30.726757,-56.220596)" />
+    <filter
+       inkscape:collect="always"
+       id="filter4342">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.76018434"
+         id="feGaussianBlur4344" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14"
+     inkscape:cx="17.765265"
+     inkscape:cy="23.862316"
+     inkscape:current-layer="g4294"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2812"
+       empspacing="12"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2818"
+       empspacing="16"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2820"
+       empspacing="4"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tag</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/MIT/ " />
+        <dc:identifier>http://toolbaricons.sourceforge.net/icons/Modern3D/objects/tag_cyan</dc:identifier>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+        <dc:date>2010-04-03</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Florian Haag</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       id="path4310"
+       d="m 19.38151,4.3619493 c 0,0 -11.5599821,-1.8446336 -13.6926061,0.2879898 C 3.5562809,6.7825625 5.4009149,18.342545 5.4009149,18.342545 L 32.236328,45.177959 46.216924,31.197363 19.38151,4.3619493 z M 11.082167,6.849134 c 0.888051,0.8880512 0.888052,2.3060171 0,3.194069 -0.888052,0.888051 -2.3321971,0.914231 -3.2202491,0.02618 -0.888051,-0.8880515 -0.888051,-2.3583791 0,-3.2464308 0.888052,-0.8880517 2.3321981,-0.8618704 3.2202491,0.026181 z"
+       style="opacity:0.78325124;fill:#2a2a2a;fill-opacity:1;stroke:none;filter:url(#filter4342)" />
+    <g
+       id="g4294"
+       transform="matrix(0.83778854,0.83778854,-0.83778854,0.83778854,20.369895,-17.622806)">
+      <path
+         id="rect4248"
+         d="m 10,15.15625 c 0,0 -8,5.798211 -8,8.34375 0,2.545539 8,8.34375 8,8.34375 l 32.03125,0 0,-16.6875 -32.03125,0 z m -3.46875,6.4375 c 1.0599945,0 1.90625,0.846255 1.90625,1.90625 0,1.059995 -0.8462555,1.9375 -1.90625,1.9375 -1.0599945,0 -1.9375,-0.877505 -1.9375,-1.9375 0,-1.059995 0.8775055,-1.90625 1.9375,-1.90625 z"
+         style="fill:url(#linearGradient4304);fill-opacity:1;stroke:#4a4a4a;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <text
+         id="text4262"
+         y="20.322351"
+         x="14.585505"
+         style="font-size:1.449494px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="20.322351"
+           x="14.585505"
+           id="tspan4264"
+           sodipodi:role="line">Toolbar Icons</tspan><tspan
+           id="tspan4266"
+           y="22.134218"
+           x="14.585505"
+           sodipodi:role="line">Copyright 2010 by Florian Haag</tspan><tspan
+           id="tspan4268"
+           y="23.946087"
+           x="14.585505"
+           sodipodi:role="line">Released under the terms of the</tspan><tspan
+           id="tspan4270"
+           y="25.757954"
+           x="14.585505"
+           sodipodi:role="line">MIT License</tspan><tspan
+           id="tspan4272"
+           y="27.569822"
+           x="14.585505"
+           sodipodi:role="line">http://toolbaricons.sourceforge.net/</tspan></text>
+      <rect
+         ry="2"
+         rx="2"
+         y="17.291363"
+         x="12.222846"
+         height="12.525891"
+         width="26.971073"
+         id="rect4274"
+         style="opacity:0.9;fill:url(#linearGradient4306);fill-opacity:1;stroke:#6c6c6c;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.48369565;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>
