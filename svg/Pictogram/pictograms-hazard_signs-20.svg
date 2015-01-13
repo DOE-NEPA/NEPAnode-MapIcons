@@ -1,1 +1,40 @@
-<svg viewBox="0 0 94.263 82.946" width="94.26" xmlns="http://www.w3.org/2000/svg"><path d="m46.35.061c-1.504.232-2.826 1.121-3.582 2.438l-42.11 72.949c-.881 1.533-.895 3.443 0 4.986.895 1.545 2.559 2.514 4.357 2.512h84.21c1.801.002 3.465-.967 4.359-2.512.895-1.543.881-3.453 0-4.986l-42.11-72.949c-1.035-1.803-3.086-2.758-5.134-2.438" fill="#fdee1c"/><path d="m46.742 2.12c-.812.127-1.506.617-1.898 1.301l-42.4 73.45c-.465.809-.467 1.848 0 2.65.473.816 1.348 1.352 2.299 1.35h84.8c.953.002 1.826-.533 2.301-1.35.465-.803.463-1.842 0-2.65l-42.4-73.45c-.545-.947-1.597-1.472-2.7-1.3m.4 8.451l36 63.4h-72.05l36.05-63.4" fill="#010101"/><path d="m43.33 28.29v32.6c-1.475 1.141-2.451 2.896-2.451 4.9 0 3.438 2.814 6.25 6.25 6.25 3.437 0 6.25-2.812 6.25-6.25 0-2.096-1.061-3.922-2.648-5.05v-32.451c-1.154-4.295-6.226-4.387-7.401 0z" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".667"/><path d="m44.23 35.391v25.9c-1.477.953-2.451 2.615-2.451 4.5 0 2.953 2.396 5.35 5.35 5.35 2.953 0 5.351-2.396 5.351-5.35 0-1.906-.998-3.602-2.5-4.549v-25.851h-5.75" fill="#010101"/></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 13.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  --><svg baseProfile="tiny" height="82.946px" id="Layer_1" space="preserve" version="1.2" viewBox="0 0 94.263 82.946" width="94.263px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org">
+            <dc:title>Source: Open Clip Art Library, Source: Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="M46.355,0.061c-1.504,0.232-2.826,1.121-3.582,2.438L0.666,75.448c-0.881,1.533-0.895,3.443,0,4.986  c0.895,1.545,2.559,2.514,4.357,2.512h84.214c1.801,0.002,3.465-0.967,4.359-2.512c0.895-1.543,0.881-3.453,0-4.986L51.489,2.499  C50.454,0.696,48.403-0.259,46.355,0.061L46.355,0.061z" fill="#FDEE1C"/>
+  <path d="M46.742,2.12c-0.812,0.127-1.506,0.617-1.898,1.301L2.443,76.87c-0.465,0.809-0.467,1.848,0,2.65  c0.473,0.816,1.348,1.352,2.299,1.35h84.8c0.953,0.002,1.826-0.533,2.301-1.35c0.465-0.803,0.463-1.842,0-2.65L49.442,3.42  C48.897,2.473,47.845,1.948,46.742,2.12L46.742,2.12z M47.142,10.571l36,63.4H11.093L47.142,10.571L47.142,10.571z" fill="#010101"/>
+  <path d="  M43.332,28.292v32.6c-1.475,1.141-2.451,2.896-2.451,4.9c0,3.438,2.814,6.25,6.25,6.25c3.437,0,6.25-2.812,6.25-6.25  c0-2.096-1.061-3.922-2.648-5.049V28.292C49.579,23.997,44.507,23.905,43.332,28.292L43.332,28.292z" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.6672"/>
+  <path d="M44.232,35.391v25.9c-1.477,0.953-2.451,2.615-2.451,4.5c0,2.953,2.396,5.35,5.35,5.35  c2.953,0,5.351-2.396,5.351-5.35c0-1.906-0.998-3.602-2.5-4.549V35.391H44.232L44.232,35.391z" fill="#010101"/>
+</svg>

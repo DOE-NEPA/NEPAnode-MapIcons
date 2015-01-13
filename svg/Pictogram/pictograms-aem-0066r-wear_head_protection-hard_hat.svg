@@ -1,1 +1,49 @@
-<svg viewBox="0 0 304.01 304.01"><g transform="matrix(1.35328 0 0 1.35328-53.21-52.19)" fill-rule="evenodd"><path d="m108.59 119l.265-1.351c5.547-28.14 30.426-48.574 59.16-48.574 27.852 0 53.23 21.336 59.14 49.66.047.695.844 12.304.863 12.594 0 .167 0 5.589 0 5.589h-137.36l17.933-17.918m-8.215-4.523c-1.59 1.582-14.879 14.781-14.879 14.781l-16.668 16.649h168.19v-14.887c0 0-.808-11.777-.875-12.75 0-.012.004-.02.004-.031 0-.098-.023-.203-.031-.305 0-.004-.023-.398-.023-.398 0 0-.016-.086-.028-.153-.007-.054-.004-.101-.011-.156-.008-.024-.02-.043-.028-.066 0-.004 0-.012 0-.012-6.66-32.539-35.898-57.07-68.01-57.07-32.528 0-60.707 22.8-67.64 54.4"/><path d="m127.96 157.14c-2.508 0-4.543 2.035-4.543 4.543 0 2.512 2.035 4.547 4.543 4.547 2.512 0 4.547-2.035 4.547-4.547 0-2.508-2.035-4.543-4.547-4.543m97.47-3.926l.851 9.778c-.226 42.77-28.15 76.72-70.879 79.83l-21.13.059c-10.825.004-19.602-8.766-19.606-19.59l-.016-26.426-14.273-2.161c-2.441-.796-3.605-.793-3.996-3.429-.094-.645.355-2.09.57-2.668 0 0 .566-1.739 1.524-4.614l11.04-30.781h115.92"/></g></svg>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg height="304.011" width="304.014">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
+    <path d="M 108.589 118.999L 108.854 117.648C 114.401 89.5034 139.28 69.0744 168.018 69.0744C 195.87 69.0744 221.249 90.4104 227.155 118.734C 227.202 119.429 227.999 131.038 228.018 131.328C 228.018 131.495 228.018 136.917 228.018 136.917L 90.6556 136.917L 108.589 118.999zM 100.374 114.476C 98.7845 116.058 85.4954 129.257 85.4954 129.257L 68.8274 145.906L 237.018 145.906L 237.018 131.019C 237.018 131.019 236.21 119.242 236.143 118.269C 236.143 118.257 236.147 118.249 236.147 118.238C 236.147 118.14 236.124 118.035 236.116 117.933C 236.116 117.929 236.093 117.535 236.093 117.535C 236.093 117.535 236.077 117.449 236.065 117.382C 236.058 117.328 236.061 117.281 236.054 117.226C 236.046 117.202 236.034 117.183 236.026 117.16C 236.026 117.156 236.026 117.148 236.026 117.148C 229.366 84.6094 200.128 60.0744 168.015 60.0744C 135.487 60.0744 107.308 82.8744 100.374 114.476" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 127.956 157.14C 125.448 157.14 123.413 159.175 123.413 161.683C 123.413 164.195 125.448 166.23 127.956 166.23C 130.468 166.23 132.503 164.195 132.503 161.683C 132.503 159.175 130.468 157.14 127.956 157.14zM 225.425 153.214L 226.276 162.992C 226.05 205.762 198.128 239.711 155.397 242.824L 134.265 242.883C 123.44 242.887 114.663 234.117 114.659 223.293L 114.643 196.867L 100.37 194.706C 97.929 193.91 96.7649 193.913 96.3743 191.277C 96.2806 190.632 96.7298 189.187 96.9446 188.609C 96.9446 188.609 97.511 186.87 98.4681 183.995L 109.507 153.214L 225.425 153.214" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 29.6204 265.39L 2.62042 265.39" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 274.39L 38.6204 301.39" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 29.6204 38.6204L 2.62042 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 29.6204L 38.6204 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.393 38.6204L 301.393 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.393 29.6204L 265.393 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.393 265.39L 301.393 265.39" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.393 274.39L 265.393 301.39" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+  </g>
+</svg>

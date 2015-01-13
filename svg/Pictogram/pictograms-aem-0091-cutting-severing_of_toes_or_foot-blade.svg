@@ -1,1 +1,51 @@
-<svg viewBox="0 0 304.01 304.01"><g transform="matrix(1.35328 0 0 1.35328-53.21-52.19)" fill-rule="evenodd"><path d="m127.62 158.32l-78.02-93.23v84.05l36.714 44.75 41.31-35.57"/><path d="m88.9 196.76l39.01-33.27c11.477 4.01 18.934 7.168 38.442 2.01l17.496 13.765h13.769l-25.531 21.23-30.406 7.746 9.754 9.75-25.817 20.941-2.254-2.297c-14.1-8.89-22.992-10.04-34.465-39.871"/><path d="m200.63 106.11l3.441 37.14-27.1 4.02c1.289-4.02 2.723-9.18 1.148-15.348 0-13.914 7.457-23.523 22.516-25.816"/><path d="m254.41 150.72v24.668h-66.27l-30.12-24.668h96.38"/></g></svg>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<svg height="304.014" width="304.015">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs><marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10"><path d="M 0 0 L 10 5 L 0 10 z"/></marker><marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10"><path d="M 10 0 L 0 5 L 10 10 z"/></marker> </defs>
+  <g id="g2958" transform="matrix(1.3532768,0,0,1.3532781,-53.207834,-52.192858)">
+    <path d="M 127.624 158.319L 49.6014 65.0884L 49.6014 149.139L 86.3154 193.889L 127.624 158.319" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 88.8974 196.756L 127.909 163.483C 139.386 167.498 146.843 170.651 166.351 165.491L 183.847 179.256L 197.616 179.256L 172.085 200.487L 141.679 208.233L 151.433 217.983L 125.616 238.924L 123.362 236.627C 109.265 227.737 100.37 226.588 88.8974 196.756" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 200.628 106.112L 204.069 143.256L 176.964 147.276C 178.253 143.256 179.687 138.096 178.112 131.928C 178.112 118.014 185.569 108.405 200.628 106.112" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 254.413 150.717L 254.413 175.385L 188.147 175.385L 158.03 150.717L 254.413 150.717" style="stroke:none; fill-rule:evenodd; fill:#000000"/>
+    <path d="M 29.6204 265.393L 2.62042 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 274.393L 38.6204 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 29.6204 38.6204L 2.62042 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 38.6204 29.6204L 38.6204 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 38.6204L 301.394 38.6204" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 29.6204L 265.394 2.62042" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 274.394 265.393L 301.394 265.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+    <path d="M 265.394 274.393L 265.394 301.393" style="stroke:#000000; stroke-width:0.5; fill:none"/>
+  </g>
+</svg>

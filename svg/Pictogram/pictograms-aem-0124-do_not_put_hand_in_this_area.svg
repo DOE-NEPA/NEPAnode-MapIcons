@@ -1,1 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305.9 305.91"><g transform="matrix(1.31387 0 0 1.31387-51.796-48.14)" fill-rule="evenodd"><path d="m198.69 184.56c-.285 13.301-6.629 25.11-16.375 32.786v19.836h-51.972v-19.836c-9.977-7.852-16.387-20.04-16.387-33.723l-.02-68.01c8.04 0 13.848 4.063 13.848 15.594v16.601c0 .817.656 1.481 1.477 1.481.816 0 1.476-.664 1.476-1.481v-61.15c0-4.082 3.305-7.391 7.387-7.391 4.078 0 7.387 3.309 7.387 7.391v59.93c0 .816.66 1.48 1.476 1.48.821 0 1.477-.664 1.477-1.48v-70.41c0-4.082 3.308-7.39 7.386-7.39 4.086 0 7.391 3.308 7.391 7.39v70.41c0 .816.66 1.48 1.477 1.48.816 0 1.476-.664 1.476-1.48v-59.93c0-4.082 3.309-7.391 7.387-7.391 4.082 0 7.391 3.309 7.391 7.391v59.93c0 .816.66 1.48 1.476 1.48.817 0 1.477-.664 1.477-1.48v-42.875c0-4.082 3.308-7.391 7.386-7.391 4.082 0 7.395 3.309 7.395 7.391l-.016 80.85"/><path d="m91.18 218.13c-17.402-17.399-26.984-40.531-26.984-65.14 0-21.851 7.574-42.535 21.457-59.08l129.71 129.71c-16 13.403-36.598 21.489-59.05 21.489-24.605 0-47.738-9.582-65.14-26.985m135.77-6.082l-129.72-129.72c16.546-13.879 37.23-21.453 59.09-21.453 50.797 0 92.12 41.32 92.12 92.12 0 22.457-8.09 43.05-21.488 59.05m-70.63-171.64c-30.07 0-58.35 11.711-79.61 32.977-21.266 21.265-32.977 49.54-32.977 79.61 0 30.07 11.711 58.35 32.98 79.62 21.262 21.261 49.54 32.972 79.61 32.972 62.08 0 112.59-50.5 112.59-112.59-.004-62.08-50.51-112.59-112.59-112.59" fill="#d90000"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="305.909" id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="pictograms-aem-0124-do_not_put_hand_in_this_area-2.svg" sodipodi:version="0.32" width="305.905" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.unece.org/trans/danger/publi/ghs/pictograms.html">
+            <dc:title>Source: UNECE GHS of Classification and Labeling of Chemicals, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database, Source: AEM Pictorial Database</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title></dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:current-layer="svg2" inkscape:cx="152.9525" inkscape:cy="152.9545" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="674" inkscape:window-width="640" inkscape:window-x="422" inkscape:window-y="181" inkscape:zoom="0.75839548" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false"/>
+  <defs id="defs6">
+    <inkscape:perspective id="perspective36" inkscape:persp3d-origin="152.9525 : 101.96967 : 1" inkscape:vp_x="0 : 152.9545 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="305.905 : 152.9545 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0 0 L 10 5 L 0 10 z" id="path9"/>
+    </marker>
+    <marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10 0 L 0 5 L 10 10 z" id="path12"/>
+    </marker>
+  </defs>
+  <g id="g2958" transform="matrix(1.3138724,0,0,1.3138737,-51.795856,-48.143733)">
+    <path d="M 198.69,184.565 C 198.405,197.866 192.061,209.679 182.315,217.351 L 182.315,237.187 L 130.343,237.187 L 130.343,217.351 C 120.366,209.499 113.956,197.308 113.956,183.628 L 113.936,115.616 C 121.979,115.616 127.784,119.679 127.784,131.21 L 127.784,147.811 C 127.784,148.628 128.44,149.292 129.261,149.292 C 130.077,149.292 130.737,148.628 130.737,147.811 L 130.737,86.6634 C 130.737,82.5814 134.042,79.2724 138.124,79.2724 C 142.202,79.2724 145.511,82.5814 145.511,86.6634 L 145.511,146.593 C 145.511,147.409 146.171,148.073 146.987,148.073 C 147.808,148.073 148.464,147.409 148.464,146.593 L 148.464,76.1864 C 148.464,72.1044 151.772,68.7964 155.85,68.7964 C 159.936,68.7964 163.241,72.1044 163.241,76.1864 L 163.241,146.593 C 163.241,147.409 163.901,148.073 164.718,148.073 C 165.534,148.073 166.194,147.409 166.194,146.593 L 166.194,86.6634 C 166.194,82.5814 169.503,79.2724 173.581,79.2724 C 177.663,79.2724 180.972,82.5814 180.972,86.6634 L 180.972,146.593 C 180.972,147.409 181.632,148.073 182.448,148.073 C 183.265,148.073 183.925,147.409 183.925,146.593 L 183.925,103.718 C 183.925,99.6364 187.233,96.3274 191.311,96.3274 C 195.393,96.3274 198.706,99.6364 198.706,103.718 L 198.69,184.565" id="path15" style="fill:#000000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 91.1829,218.128 C 73.7806,200.729 64.1985,177.597 64.1985,152.991 C 64.1985,131.14 71.7727,110.456 85.6556,93.9094 L 215.37,223.624 C 199.37,237.027 178.772,245.113 156.319,245.113 C 131.714,245.113 108.581,235.531 91.1829,218.128 z M 226.952,212.046 L 97.2337,82.3274 C 113.78,68.4484 134.464,60.8744 156.319,60.8744 C 207.116,60.8744 248.44,102.194 248.44,152.991 C 248.44,175.448 240.35,196.042 226.952,212.046 z M 156.319,40.4014 C 126.245,40.4014 97.972,52.1124 76.7063,73.3784 C 55.4407,94.6434 43.7298,122.917 43.7298,152.991 C 43.7298,183.065 55.4407,211.339 76.7102,232.609 C 97.972,253.87 126.249,265.581 156.319,265.581 C 218.401,265.581 268.909,215.078 268.913,152.991 C 268.909,90.9094 218.401,40.4014 156.319,40.4014" id="path17" style="fill:#d90000;fill-rule:evenodd;stroke:none"/>
+    <path d="M 29.6204,267.288 L 2.62042,267.288" id="path19" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 38.6204,276.288 L 38.6204,303.288" id="path21" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 29.6204,38.6244 L 2.62042,38.6244" id="path23" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 38.6204,29.6244 L 38.6204,2.62042" id="path25" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 276.284,38.6244 L 303.284,38.6244" id="path27" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 267.284,29.6244 L 267.284,2.62042" id="path29" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 276.284,267.288 L 303.284,267.288" id="path31" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+    <path d="M 267.284,276.288 L 267.284,303.288" id="path33" style="fill:none;stroke:#000000;stroke-width:0.51499552"/>
+  </g>
+</svg>

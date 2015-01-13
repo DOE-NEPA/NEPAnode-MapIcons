@@ -1,1 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.93 155.93"><g><path d="m155.93 155.93v-155.93h-155.93v155.93h155.93"/><path d="m150.83 150.83v-145.73h-145.73v145.73h145.73" fill="#f90"/><path d="m140.82 111.78l-96.46-97.71-29.26 30.07 96.46 97.71 29.26-30.07"/><path d="m111.78 15.11l-97.71 96.46 30.07 29.26 97.71-96.46-30.07-29.26"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="155.93201" id="svg2" inkscape:export-filename="/home/yves/Bureau/risk/Xi irritant.png" inkscape:export-xdpi="196" inkscape:export-ydpi="196" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.45+devel" sodipodi:docname="Xi irritant.svg" sodipodi:version="0.32" version="1.0" width="155.93201" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title></dc:title>
+        <dc:description></dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>unsorted</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org/">
+            <dc:title>Source: Open Clip Art Library, Source: Open Clip Art Library, Source: Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>yves guillou</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>yves guillou</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date></dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://en.wikipedia.org/wiki/Public_domain"/>
+        <dc:language>French</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs4">
+    <inkscape:perspective id="perspective76" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective234" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective233" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective10" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="ArrowStart" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path1463"/>
+    </marker>
+    <marker id="ArrowEnd" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path1461"/>
+    </marker>
+    <inkscape:perspective id="perspective2379" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2416" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2474" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path6"/>
+    </marker>
+    <marker id="marker2471" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path4"/>
+    </marker>
+    <inkscape:perspective id="perspective2468" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2553" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path2555"/>
+    </marker>
+    <marker id="marker2549" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path2551"/>
+    </marker>
+    <inkscape:perspective id="perspective2546" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2657" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path2659"/>
+    </marker>
+    <marker id="marker2653" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path2655"/>
+    </marker>
+    <inkscape:perspective id="perspective2650" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2751" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path2753"/>
+    </marker>
+    <marker id="marker2747" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path2749"/>
+    </marker>
+    <inkscape:perspective id="perspective2744" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2821" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path2823"/>
+    </marker>
+    <marker id="marker2817" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path2819"/>
+    </marker>
+    <inkscape:perspective id="perspective2814" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2868" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2908" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path1608"/>
+    </marker>
+    <marker id="marker2905" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path1606"/>
+    </marker>
+    <inkscape:perspective id="perspective2902" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker2974" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path2976"/>
+    </marker>
+    <marker id="marker2970" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path2972"/>
+    </marker>
+    <inkscape:perspective id="perspective2967" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+    <marker id="marker3069" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="10" refY="5" viewBox="0 0 10 10">
+      <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path3071"/>
+    </marker>
+    <marker id="marker3065" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0 0 10 10">
+      <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path3067"/>
+    </marker>
+    <inkscape:perspective id="perspective3062" inkscape:persp3d-origin="300 : 400 : 1" inkscape:vp_x="-50 : 600 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="700 : 600 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="77.966003" inkscape:cy="77.966003" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="713" inkscape:window-width="1024" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="3.2257649" pagecolor="#ffffff" showgrid="false" showguides="true">
+    <sodipodi:guide id="guide3093" orientation="-0.70710678,0.70710678" position="-116.17232,1113.5541"/>
+  </sodipodi:namedview>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Calque 1" transform="translate(-16.319711,-600.3337)">
+    <g id="g2757" transform="translate(16.319711,600.3337)">
+      <path d="M 155.932,155.932 L 155.932,0 L 0,0 L 0,155.932 L 155.932,155.932 z" id="path2759" style="fill:#000000;stroke:none"/>
+      <path d="M 150.83,150.83 L 150.83,5.1011 L 5.1011,5.1011 L 5.1011,150.83 L 150.83,150.83 z" id="path2761" style="fill:#ff9900;stroke:none"/>
+    </g>
+    <g id="g11" transform="translate(16.319711,600.3337)">
+      <path d="M 140.823,111.783 L 44.3677,14.0771 L 15.1084,44.1489 L 111.564,141.854 L 140.823,111.783 z" id="path2764" style="fill:#000000;stroke:none"/>
+      <path d="M 111.783,15.1084 L 14.0771,111.564 L 44.1489,140.823 L 141.855,44.3677 L 111.783,15.1084 z" id="path2766" style="fill:#000000;stroke:none"/>
+    </g>
+  </g>
+</svg>
